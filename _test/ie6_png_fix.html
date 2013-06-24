@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<meta charset="uft-8">
+<head>
+<title>IE6 pngÍ¸Ã÷ÐÞ¸´ demo</title>
+<style>
+#t1{
+	width:600px;
+	height:200px;
+	border:1px solid #333;
+	background:url(weibo.png) repeat;
+}
+.clearfix{zoom:1;}
+.movie_list{
+	height:200px;
+}
+.movie_list li{
+	float:left;
+	width:200px;
+	height:200px;
+	overflow:hidden;
+	position:relative;
+}
+.movie_list img{
+	width:200px;
+	height:200px;
+}
+.movie_list li .mask{
+	width:180px;
+	height:180px;
+	/*border : 1px solid #aabbcc;*/
+	background-color:#aabbcc;
+	position:absolute;
+	left:0px;
+	top:0px;
+	opacity:1;
+}
+</style>
+<script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+<script src="png_fix.js"></script>
+</head>
+<body>
+<h1>IE6 PNG fix</h1>
+<div id="#t">
+	<div id="t1" class="png_bg">²âÊÔÎÄ×Ö ²âÊÔÎÄ×Ö</div>
+</div>
+<img class="png_bg" src="weibo.png" />
+
+<ul class="movie_list clearfix">
+	<li>
+		<img src="test.jpg">
+		<div class="mask"><h1>»¨Ðõ1</h1></div>
+	</li>
+	<li>
+		<img src="test.jpg">
+		<div class="mask"><h1>»¨Ðõ2</h1></div>
+	</li>
+	<li style="margin-right:0;">
+		<img src="test.jpg">
+		<div class="mask"><h1>»¨Ðõ3</h1></div>
+	</li>
+</ul>
+
+<ul id="test2" class="movie_list clearfix">
+	<li>
+		<img src="test.jpg">
+		<div class="mask"><h1>»¨Ðõ4</h1></div>
+	</li>
+	<li>
+		<img src="test.jpg">
+		<div class="mask"><h1>»¨Ðõ5</h1></div>
+	</li>
+	<li style="margin-right:0;">
+		<img src="test.jpg">
+		<div class="mask"><h1>»¨Ðõ6</h1></div>
+	</li>
+</ul>
+
+<script>
+$(function(){
+	DD_belatedPNG.fix('.png_bg'); // argument is a CSS selector
+	//DD_belatedPNG.fixPng( someNode ); // argument is an HTMLDomElement
+	
+	$.fn.dir_move = function(trigger, opts){
+		if( !trigger ){
+			return;
+		}
+		var direction = {
+			b_t : 'bottom-to-top',
+			t_b : 'top-to-bottom'
+		};
+		
+		var self = $(this),
+			selector = opts.selector,
+			masks = self.find(selector),
+			speed = opts.speed || 500,
+			dir = direction[opts.dir] || 'bottom-to-top';
+		
+		var parent = masks.eq(0).parent(),
+			width = parent.width(),
+			height = parent.height();
+			
+		var css = {
+			position : 'absolute',
+			top : 0,
+			left : parseInt( (width - masks.width()) / 2, 10 )
+		};
+		
+		var param_enter = {};
+		var param_leave = {};
+		
+		if( dir === 'bottom-to-top' ){
+			css.top = height;
+		} else if ( 'top-to-bottom' === dir ) {
+			css.top = -height;
+		}
+		param_enter.top = parseInt( (height - masks.height()) / 2, 10 );
+		param_leave.top = css.top;
+		
+		masks.css(css);
+		
+		self.on('mouseenter', trigger, function(){
+			$(this).find(selector).animate( param_enter, speed );
+		});
+		self.on('mouseleave', trigger, function(){
+			$(this).find(selector).animate( param_leave, speed );
+		});
+	};
+	
+	$('.movie_list').eq(0).dir_move('li', {
+		selector : '.mask',
+		speed : 300
+	});
+	
+	$('.movie_list').eq(1).dir_move('li', {
+		selector : '.mask',
+		dir : 't_b',
+		speed : 300
+	});
+});
+</script>
+</body>
+</html>
