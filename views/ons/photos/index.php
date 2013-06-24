@@ -66,56 +66,72 @@
 		<h2 class="title">剧照</h2>
 		<div class="slider">
 			<h2>金依萌 Eva Jin</h2>
-			<ul class="comm_list clearfix">
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/book.png" class="img_box"></a>
-				</li>
-			</ul>
-			<div class="arrow_left"></div>
-			<div class="arrow_right"></div>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/book.png" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left"></div>
+				<div class="arrow_right"></div>
+			</div>
 		</div>
 		
 		<div class="slider">
 			<h2>范冰冰 Fan Bingbing</h2>
-			<ul class="comm_list clearfix">
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
-				</li>
-			</ul>
-			<div class="arrow_left"></div>
-			<div class="arrow_right"></div>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/0.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/9.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/10.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/12.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/13.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/17.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/18.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/19.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left"></div>
+				<div class="arrow_right"></div>
+			</div>
 		</div>
 		
 		<div class="slider">
 			<h2>李治延 Aarif Rahman</h2>
-			<ul class="comm_list clearfix">
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
-				</li>
-			</ul>
-			<div class="arrow_left"></div>
-			<div class="arrow_right"></div>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					</li>
+					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left"></div>
+				<div class="arrow_right"></div>
+			</div>
 		</div>
 	</div>
 	<?php include '../../common/footer.php'; ?>
