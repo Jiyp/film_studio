@@ -36,7 +36,7 @@ if( in_array($uri, $ons) ){
 			</div>
 			</li>
 			<li <?php if($key == 3){echo $nav_current;}; ?>><a href="/views/aboutus"  class="link"><span class="valign">关于我们</span><p>About us</p></a>
-			<div class="sub_nav" <?php if($key != 3){echo ' style="display:none;"';}; ?>>
+			<div class="sub_nav" style="width:181px;right:-10px;<?php if($key != 3){echo 'display:none;';}; ?>">
 				<a href="/views/aboutus/news/" <?php if($uri == "/views/aboutus/news/"){echo $sub_current;}; ?> ><p>新闻</p><span>News</span></a>
 				<a href="/views/aboutus/contactus/" <?php if($uri == "/views/aboutus/contactus/"){echo $sub_current;}; ?>><p>联系我们</p><span>Contact Us</span></a>
 				<a href="/views/aboutus/" <?php if($uri == "/views/aboutus/"){echo $sub_current;}; ?>><p>关于我们</p><span>About Us</span></a>

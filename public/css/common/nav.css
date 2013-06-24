@@ -8,14 +8,14 @@
 .m_nav_home .logo a{width:277px;height:134px;display:block;text-indent:-10000px;}
 
 .m_nav_home .nav{float:left;font-size:20px;font-family:\5fae\8f6f\96c5\9ed1;margin-top:40px;}
-.m_nav_home .nav li{float:left;margin-left: 40px;position:relative;}
+.m_nav_home .nav li{float:left;margin-left: 40px;position:relative;height:60px;}
 .m_nav_home .current .link{color:#3399cc;}
 .m_nav_home .nav .link{display:block;}
 .m_nav_home .nav .link:hover{color:#3399cc;}
 .m_nav_home .nav .link p{font-size:14px;}
 .sub_nav{
 	position:absolute;
-	width:340px;
+	width:240px;
 	top:56px;
 	font-size:14px;
 }
