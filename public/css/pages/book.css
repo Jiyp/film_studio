@@ -1,0 +1,9 @@
+﻿@charset "utf-8";
+/*影片简介*/
+@import url("../module/pic_info.css");
+/*影片文字介绍*/
+@import url("../module/film_summary.css");
+/* link_btns */
+@import url("../module/link_btns.css");
+/* book_info */
+@import url("../module/book_info.css");

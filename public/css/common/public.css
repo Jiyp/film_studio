@@ -1,0 +1,24 @@
+﻿@charset "utf-8";
+#main{
+	width:100%;
+	overflow-x : hidden;
+}
+.link{color:#000;}
+.F_wrap{
+	width:100%;
+	background:#fff;
+	position:relative;
+}
+.title{
+	position : absolute;
+	background : url(../../images/title_bg.png) repeat;
+	width : 180px;
+	height:48px;
+	line-height:48px;
+	top : -24px;
+	left : 50%;
+	margin-left : -90px;
+	z-index : 101;
+	text-align:center;
+	color : #fff;
+}

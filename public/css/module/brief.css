@@ -1,0 +1,39 @@
+@charset "utf-8";
+/*首页用户简介*/
+.brief{
+	width : 100%;
+	height : 420px;
+	position : relative;
+	z-index : 99;
+}
+.brief .bg{
+	width : 100%;
+	height : 584px;
+	/*background : url(../../images/quotation_bg.png) top center no-repeat #fafafa;
+	background-size:cover;*/
+	position : absolute;
+	top : -164px;
+	z-index : 99;
+}
+.brief .content{
+	width:960px;margin:0 auto;position:relative;z-index:100;
+}
+.brief h1{
+	width:439px;
+	height:49px;
+	position:relative;
+	left:261px;
+	top:120px;
+	text-indent:-2000px;
+	color : #fff;
+	background:url(../../images/txt_logo.png) no-repeat;
+}
+/*
+.brief h1 span{
+	font : 22px 微软雅黑,宋体,Tahoma,Geneva,sans-serif;
+}*/
+.brief p{
+	color : #fff;
+	text-align:center;
+	font : 22px 微软雅黑,宋体,Tahoma,Geneva,sans-serif;
+}

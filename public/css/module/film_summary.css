@@ -1,0 +1,36 @@
+﻿@charset "utf-8";
+.film_summary{
+	width:850px;
+	position:relative;
+	margin : 0 auto;
+	padding : 20px 0;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+}
+a.more_info{
+	float: right;
+	color : #3399cc;
+	cursor : pointer;
+}
+/*
+a.more_info:hover{
+	color : #3399cc;
+}*/
+.film_summary .cn, .film_summary .en{
+	color : #666666;
+	line-height:1.8;
+	width:380px;
+}
+.film_summary .cn{
+	float:left;
+}
+.film_summary .en{
+	float:right;
+}
+.film_summary .v_line{
+	width:1px;
+	height:168px;
+	float:left;
+	background-color:#ccc;
+	margin-left:44px;
+}

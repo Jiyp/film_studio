@@ -1,0 +1,9 @@
+﻿@charset "utf-8";
+.weibo{
+	width:100%;
+	background : url(../../images/bg02.png) repeat #f7f7f7;
+	position:relative;
+}
+.weibo div{
+	width:930px;margin: 0 auto;padding:72px 0;
+}
