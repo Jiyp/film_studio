@@ -70,7 +70,5 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 	<?php include '../common/footer.php'; ?>
 		
 </div>
-<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
-<script src="<?=$host?>/public/js/core.js"></script>
 </body>
 </html>

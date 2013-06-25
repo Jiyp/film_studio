@@ -94,7 +94,5 @@ var jiathis_config = {
 	summary:"电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高" 
 } 
 </script>
-<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
-<script src="<?=$host?>/public/js/core.js"></script>
 </body>
 </html>

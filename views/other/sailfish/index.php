@@ -85,7 +85,5 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	<?php include '../../common/footer.php'; ?>
 		
 </div>
-<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
-<script src="<?=$host?>/public/js/core.js"></script>
 </body>
 </html>

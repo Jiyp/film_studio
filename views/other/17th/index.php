@@ -83,7 +83,5 @@ Steven finds his novel's character coming to life with a message that he must co
 	<?php include '../../common/footer.php'; ?>
 		
 </div>
-<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
-<script src="<?=$host?>/public/js/core.js"></script>
 </body>
 </html>

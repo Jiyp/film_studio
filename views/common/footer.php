@@ -3,6 +3,9 @@
 	<p class="name">draw<span>and</span>shoot<span>films</span></p>
 	<p>萌影画工作室 版权所有</p>
 </div>
+<?php include 'script.php'; ?>
+<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="<?=$host?>/public/js/core.js"></script>
 <!--[if IE 6]>
 <script src="/public/js/png_fix.js"></script>
 <script>
@@ -12,4 +15,3 @@ $(function(){
 });
 </script>
 <![endif]-->
-<?php include 'script.php'; ?>

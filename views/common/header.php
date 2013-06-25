@@ -1,3 +1,4 @@
+<script type="text/javascript" src="/public/js/firebug-lite.js"></script>
 <?php include 'config.php';?>
 <?php
 $uri = $_SERVER['REQUEST_URI'];
