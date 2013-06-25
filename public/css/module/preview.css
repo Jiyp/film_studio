@@ -3,6 +3,7 @@
 	width : 100%;
 	background : #fff;
 	position : relative;
+	_z-index:998;
 }
 .preview .intro{
 	 text-indent:2em;
