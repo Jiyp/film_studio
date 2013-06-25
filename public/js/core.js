@@ -3,10 +3,10 @@ $(function(){
 	var wb_icon = $('#wb_icon');
 	var base_url = $CONFIG.base_url;
 	wb_icon.on('mouseenter', function(){
-		wb_icon.find('img').attr('src', base_url + '/public/images/weibo_hover.png');
+		wb_icon.find('img').attr('src', base_url + '/public/images/weibo_hover_63.png');
 	});
 	wb_icon.on('mouseleave', function(){
-		wb_icon.find('img').attr('src', base_url + '/public/images/weibo.png');
+		wb_icon.find('img').attr('src', base_url + '/public/images/weibo_63.png');
 	});
 	
 	// slider
