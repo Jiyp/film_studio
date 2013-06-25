@@ -85,5 +85,64 @@ $(function(){
 		}
 		sub_nav.hide();
 	});
+
+    //我的作品-->动画效果
+	$.fn.dir_move = function(trigger, opts){
+		if( !trigger ){
+			return;
+		}
+		var direction = {
+			b_t : 'bottom-to-top',
+			t_b : 'top-to-bottom'
+		};
+		
+		var self = $(this),
+			selector = opts.selector,
+			masks = self.find(selector),
+			speed = opts.speed || 500,
+			dir = direction[opts.dir] || 'bottom-to-top';
+		
+		var parent = masks.parent(),
+			width = parent.outerWidth(),
+			height = parent.outerHeight();
+			
+		var css = {
+			position : 'absolute',
+			top : 0,
+			left : parseInt( (width - masks.width()) / 2, 10 )
+		};
+		
+		var param_enter = {};
+		var param_leave = {};
+		
+		if( dir === 'bottom-to-top' ){
+			css.top = height;
+		} else if ( 'top-to-bottom' === dir ) {
+			css.top = -height;
+		}
+		param_enter.top = parseInt( (height - masks.height()) / 2, 10 );
+		param_leave.top = css.top;
+		
+		masks.css(css);
+		
+		self.on('mouseenter', trigger, function(){
+			$(this).find(selector).animate( param_enter, speed );
+		});
+		self.on('mouseleave', trigger, function(){
+			$(this).find(selector).animate( param_leave, speed );
+		});
+	};
+	
+	$('.movie_list').eq(0).dir_move('li', {
+		selector : '.mask',
+		speed : 300
+	});
+	
+	$('.movie_list').eq(1).dir_move('li', {
+		selector : '.mask',
+		dir : 't_b',
+		speed : 300
+	});
+
 });
 

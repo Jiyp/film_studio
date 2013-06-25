@@ -23,4 +23,16 @@
 	padding : 5px;
 	background-color : #fff;
 	cursor : pointer;
+    overflow:hidden;
+    position:relative;
+}
+.movie_list li .mask{
+	width:260px;
+	height:210px;
+	/*border : 1px solid #aabbcc;*/
+	background-color:#aabbcc;
+	position:absolute;
+	left:0px;
+	top:0px;
+	opacity:1;
 }

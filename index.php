@@ -28,22 +28,40 @@
 				<ul class="movie_list clearfix">
 					<li>
 						<img src="/public/images/pic_1_gray_293.png" />
+                        <div class="mask"><h1>视频1</h1></div>
 					</li>
-					<li><img src="/public/images/pic_1_gray_293.png" /></li>
-					<li style="margin-right:0;"><img src="/public/images/pic_1_gray_293.png" /></li>
-					<li><img src="/public/images/pic_1_gray_293.png" /></li>
-					<li><img src="/public/images/pic_1_gray_293.png" /></li>
-					<li style="margin-right:0;"><img src="/public/images/pic_1_gray_293.png" /></li>
+                    <li>
+                        <img src="/public/images/pic_1_gray_293.png" />
+                        <div class="mask"><h1>视频2</h1></div>
+                    </li>
+                    <li style="margin-right:0;">
+                        <img src="/public/images/pic_1_gray_293.png" />
+                        <div class="mask"><h1>视频3</h1></div>
+                    </li>
 				</ul>
+                <ul class="movie_list clearfix">
+                    <li>
+                        <img src="/public/images/pic_1_gray_293.png" />
+                        <div class="mask"><h1>视频4</h1></div>
+                    </li>
+                    <li>
+                        <img src="/public/images/pic_1_gray_293.png" />
+                        <div class="mask"><h1>视频5</h1></div>
+                    </li>
+                    <li style="margin-right:0;">
+                        <img src="/public/images/pic_1_gray_293.png" />
+                        <div class="mask"><h1>视频6</h1></div>
+                    </li>
+                </ul>
 			</div>
 		</div>
 		
 		<div class="preview">
 			<h2 class="title png_fix">预告片</h2>
-			<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;">
+			<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;_padding-top:50px;">
 				<embed src="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf" allowFullScreen="true" quality="high" width="930" height="498" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 				<!-- JiaThis Button BEGIN -->
-				<div style="float:right;padding-top:24px;">
+				<div style="float:right;padding-top:24px;_width:284px;">
 				<div class="jiathis_style_32x32" style="height:32px;">
 					<a class="jiathis_button_qzone"></a>
 					<a class="jiathis_button_tsina"></a>
