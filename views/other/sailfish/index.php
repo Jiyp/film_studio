@@ -33,7 +33,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 " target="_blank">电影网观看整片(中国)</a>
 	</div>
 	
-	<div class="my_works" style="border-bottom:none;">
+	<div class="my_works png_fix" style="border-bottom:none;">
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>

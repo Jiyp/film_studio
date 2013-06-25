@@ -30,7 +30,7 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 		<a style="margin-left:230px;" href="http://product.dangdang.com/product.aspx?product_id=20733511#ddclick?act=click&pos=20733511_1_0_q&cat=&key=%B7%C7%B3%A3%B0%AE%C7%E9%CA%D6%B2%E1&qinfo=2_1_48&pinfo=&minfo=&ninfo=&custid=&permid=20130622001915317339193462271111545&ref=http%3A%2F%2Fwww.dangdang.com%2F&rcount=&type=&t=1371998626000" target="_blank">当当网购买《非常爱情手册》</a>
 	</div>
 	
-	<div class="my_book">
+	<div class="my_book png_fix">
 		<div class="wrap">
 			<table class="book_info">
 				<tr>

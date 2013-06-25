@@ -34,7 +34,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 " target="_blank">Official English Website</a>
 	</div>
 	
-	<div class="my_works">
+	<div class="my_works png_fix">
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
@@ -166,8 +166,8 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
 				</li>
 			</ul>
-			<div class="arrow_left"></div>
-			<div class="arrow_right"></div>
+			<div class="arrow_left png_fix"></div>
+			<div class="arrow_right png_fix"></div>
 		</div>
 	</div>
 	<?php include '../common/footer.php'; ?>

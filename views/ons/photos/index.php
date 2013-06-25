@@ -13,7 +13,7 @@
 <div id="main">
 	<?php include '../../common/header.php'; ?>
 
-	<div class="my_works">
+	<div class="my_works png_fix">
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
@@ -83,8 +83,8 @@
 					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/book.png" class="img_box"></a>
 					</li>
 				</ul>
-				<div class="arrow_left"></div>
-				<div class="arrow_right"></div>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
 			</div>
 		</div>
 		
@@ -111,8 +111,8 @@
 					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/19.jpg" class="img_box"></a>
 					</li>
 				</ul>
-				<div class="arrow_left"></div>
-				<div class="arrow_right"></div>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
 			</div>
 		</div>
 		
@@ -129,8 +129,8 @@
 					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
 					</li>
 				</ul>
-				<div class="arrow_left"></div>
-				<div class="arrow_right"></div>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
 			</div>
 		</div>
 	</div>

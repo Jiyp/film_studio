@@ -31,7 +31,7 @@ Steven finds his novel's character coming to life with a message that he must co
 " target="_blank">Watch on YouTube</a>
 	</div>
 	
-	<div class="my_works" style="border-bottom:none;">
+	<div class="my_works png_fix" style="border-bottom:none;">
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
