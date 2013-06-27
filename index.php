@@ -28,29 +28,29 @@
 				<ul class="movie_list clearfix">
 					<li>
 						<img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>视频1</h1></div>
+                        <div class="mask"><h1>一夜惊喜预告片</h1></div>
 					</li>
                     <li>
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>视频2</h1></div>
+                        <div class="mask"><h1>一夜惊喜花絮</h1></div>
                     </li>
                     <li style="margin-right:0;">
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>视频3</h1></div>
+                        <div class="mask"><h1>一夜惊喜媒体资源</h1></div>
                     </li>
 				</ul>
                 <ul class="movie_list clearfix">
                     <li>
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>视频4</h1></div>
+                        <div class="mask"><h1>非常完美</h1></div>
                     </li>
                     <li>
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>视频5</h1></div>
+                        <div class="mask"><h1>其他作品</h1></div>
                     </li>
                     <li style="margin-right:0;">
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>视频6</h1></div>
+                        <div class="mask"><h1>关于我们</h1></div>
                     </li>
                 </ul>
 			</div>

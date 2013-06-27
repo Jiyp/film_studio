@@ -28,7 +28,7 @@ if( in_array($uri, $ons) ){
 			</div>
 			</li>
 			<li <?php if($key == 1){echo $nav_current;}; ?>><a href="/views/perfect" class="link"><span class="valign">非常完美</span><p>Sophie's Revenge</p></a></li>
-			<li <?php if($key == 2){echo $nav_current;}; ?>><a href="/views/other/sailfish/" class="link"><span class="valign">其它作品</span><p>Other work</p></a>
+			<li <?php if($key == 2){echo $nav_current;}; ?>><a href="/views/other/sailfish/" class="link"><span class="valign">其他作品</span><p>Other work</p></a>
 			<div class="sub_nav" style="width:192px;right:-13px;<?php if($key != 2){echo ';display:none;';}; ?>">
 				<a href="/views/other/book/" <?php if($uri == "/views/other/book/"){echo $sub_current;}; ?>><p>漫画书</p><span>Book</span></a>
 				<a href="/views/other/17th/" <?php if($uri == "/views/other/17th/"){echo $sub_current;}; ?>><p>第十七个人</p><span>The 17th Man</span></a>
