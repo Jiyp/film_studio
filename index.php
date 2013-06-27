@@ -13,10 +13,10 @@
 <div id="main">
 		<?php include './views/common/header.php'; ?>
 		<div class="brief">
-			<div class="bg"><img src="/public/images/quotation_bg_2.png" style="width:100%;height:584px;" /></div>
+			<div class="bg"><img src="/public/images/quotation_bg_2.png" style="width:100%;height:404px;" /></div>
 			<div class="content">
-				<h1 class="png_fix">logo</h1>
-				<p style="margin-top:150px;">Hi,欢迎来到萌影画工作室。我们是热爱电影的爱好者。这里有几个我们的作品，</p>
+				<!-- <h1 class="png_fix">logo</h1>-->
+				<p style="margin-top:50px;">Hi,欢迎来到萌影画工作室。我们是热爱电影的爱好者。这里有几个我们的作品，</p>
 				<p>希望您喜欢。有什么感受希望您跟我们联系咯哈 :-)</p>
 				<p>-- 金依萌导演 --</p>
 			</div>
