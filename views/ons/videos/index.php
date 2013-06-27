@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
-	<title>萌影画</title>
+	<title>一夜惊喜-花絮-萌影画</title>
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
 	<meta name="author" content="金依萌">
 	<link rel="icon" type="image/ico" href="favicon.ico">
@@ -21,7 +21,7 @@
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">一夜惊喜 / F***, I'm Pregnant</td>
+								<td class="file_name" colspan="2">一夜惊喜 / One Night Surprise</td>
 							</tr>
 							<tr>
 								<td class="item">导演 / Director：</td>
@@ -64,25 +64,39 @@
 	<div class="preview">
 		<h2 class="title">花絮</h2>
 		<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;position:relative;">
-			<embed src="http://player.youku.com/player.php/sid/XNTczMDQzNzQw/v.swf" allowFullScreen="true" quality="high" width="930" height="498" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-			<h2 class="header">xxx - 简介</h2>
-			<p class="intro">影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介影片简介</p>
-			<!-- JiaThis Button BEGIN -->
-			<div style="position:absolute;right:0;bottom:148px;">
-			<div class="jiathis_style_32x32" style="height:32px;">
-				<a class="jiathis_button_qzone"></a>
-				<a class="jiathis_button_tsina"></a>
-				<a class="jiathis_button_tqq"></a>
-				<a class="jiathis_button_weixin"></a>
-				<a class="jiathis_button_renren"></a>
-				<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
-				<a class="jiathis_counter_style"></a>
+			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTczMDQzNzQw" allowfullscreen></iframe>
+			<h2 class="header">花絮1 - 简介</h2>
+			<p class="intro">电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高。</p>
+			<div style="position:absolute;right:0;top:584px;">
+				<div class="jiathis_style_32x32" style="height:32px;">
+					<a class="jiathis_button_qzone"></a>
+					<a class="jiathis_button_tsina"></a>
+					<a class="jiathis_button_tqq"></a>
+					<a class="jiathis_button_weixin"></a>
+					<a class="jiathis_button_renren"></a>
+					<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+					<a class="jiathis_counter_style"></a>
+				</div>
 			</div>
+			
+			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTc1MTEzMzg4" allowfullscreen></iframe>
+			<h2 class="header">花絮2 - 简介</h2>
+			<p class="intro">电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高。</p>
+			<div style="position:absolute;right:0;bottom:52px;">
+				<div class="jiathis_style_32x32" style="height:32px;">
+					<a class="jiathis_button_qzone"></a>
+					<a class="jiathis_button_tsina"></a>
+					<a class="jiathis_button_tqq"></a>
+					<a class="jiathis_button_weixin"></a>
+					<a class="jiathis_button_renren"></a>
+					<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+					<a class="jiathis_counter_style"></a>
+				</div>
 			</div>
-			<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
-			<!-- JiaThis Button END -->
+			
 		</div>
 	</div>
+	<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
 	<?php include '../../common/footer.php'; ?>
 		
 </div>

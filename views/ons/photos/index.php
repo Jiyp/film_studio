@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
-	<title>萌影画</title>
+	<title>一夜惊喜-剧照-萌影画</title>
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
 	<meta name="author" content="金依萌">
 	<link rel="icon" type="image/ico" href="favicon.ico">
@@ -22,7 +22,7 @@
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">一夜惊喜 / F***, I'm Pregnant</td>
+								<td class="file_name" colspan="2">一夜惊喜 / One Night Surprise</td>
 							</tr>
 							<tr>
 								<td class="item">导演 / Director：</td>

@@ -6,8 +6,9 @@
 	_z-index:998;
 }
 .preview .intro{
-	 text-indent:2em;
-	 line-height:1.6;
+	margin-bottom:20px;
+	text-indent:2em;
+	line-height:1.6;
 }
 .preview .header{
 	color:#666666;

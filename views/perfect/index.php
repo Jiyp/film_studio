@@ -27,8 +27,8 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	</div>
 	
 	<div class="link_btns clearfix">
-		<a href="http://www.m1905.com/vod/play/86070.shtml" target="_blank">电影网观看整片(中国)</a>
-		<a class="right_btn" href="http://fcwm.wanmei.com/" target="_blank">电影官网</a>
+		<a class="mb20" href="http://www.m1905.com/vod/play/86070.shtml" target="_blank">电影网观看整片(中国)</a>
+		<a class="mb20 right_btn" href="http://fcwm.wanmei.com/" target="_blank">电影官网</a>
 		<a href="http://movies.netflix.com/WiMovie/Sophie_s_Revenge/70142805" target="_blank">Watch on Netflix (US)</a>
 		<a class="right_btn" href="http://app.yule.sohu.com/movie/fcwm/main1.html
 " target="_blank">Official English Website</a>
