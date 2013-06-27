@@ -11,22 +11,25 @@
 }
 .map .wrap .geo{
 	float:left;
-	width:300px;
+	width:350px;
 }
 .map .wrap .info{
 	float:left;
-	width:500px;
-    margin-left:30px;
+	width:450px;
+	margin-left:50px;
 }
 .map  .name{
+	height:30px;
+	vertical-align:middle;
 	font-size:14px;
 	font-weight:bold;
 }
 .map .item{
 	color:#666666;
 	width:50px;
+	height:26px;
 	text-align:left;
-	
+	vertical-align:middle;
 }
 .map .detail{
 	font-weight:bold;

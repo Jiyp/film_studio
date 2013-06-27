@@ -20,7 +20,7 @@ if( in_array($uri, $ons) ){
 	<div class="nav_home clearfix">
 		<h1 class="logo png_fix"><a href="/">萌影画</a></h1>
 		<ul class="nav">
-			<li <?php if($key == 0){echo $nav_current;}; ?>"><a href="/" class="link"><span class="valign">一夜惊喜</span><p>F***,I'm Pregnant</p></a>
+			<li <?php if($key == 0){echo $nav_current;}; ?>><a href="/" class="link"><span class="valign">一夜惊喜</span><p>One Night Surprise</p></a>
 			<div class="sub_nav" <?php if($key > 0){echo ' style="display:none;"';}; ?>>
 				<a href="/views/ons/trailers" <?php if($uri == "/views/ons/trailers/"){echo $sub_current;}; ?> ><p>预告片</p><span>Trailers</span></a>
 				<a href="/views/ons/videos" <?php if($uri == "/views/ons/videos/"){echo $sub_current;}; ?>><p>花　絮</p><span>Bts Videos</span></a>
