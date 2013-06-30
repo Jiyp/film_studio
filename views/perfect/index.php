@@ -74,7 +74,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 								<td class="content">完美世界 / Perfect World，CJE / CJEntertainment, 金依萌 / Eva Jin</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/91347/" target="_blank">更多信息</a> / <a href="请提供IMDB的链接地址" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/91347/" target="_blank">更多信息</a> / <a href="http://www.imdb.com/title/tt1303833/" target="_blank">More Info</a></td>
 							</tr>
 						</table>
 					</td>
@@ -156,18 +156,34 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	<div class="F_wrap" style="margin-bottom:40px;">
 		<div class="slider">
 			<h2>剧照 Making of Pictures</h2>
-			<ul class="comm_list clearfix">
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-			</ul>
-			<div class="arrow_left png_fix"></div>
-			<div class="arrow_right png_fix"></div>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_5.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=6&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_6.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=7&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_7.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=8&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_8.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=9&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_9.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=10&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_10.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=11&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_11.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
 		</div>
 	</div>
 	<?php include '../common/footer.php'; ?>

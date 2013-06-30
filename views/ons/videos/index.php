@@ -52,7 +52,7 @@
 								<td class="content">环亚 / Media Asia，华夏视听 / Cathay Audiovisual, 萌影画 / Drwa & Shoot</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a> / <a href="请提供IMDB的链接地址" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a><!-- / <a href="请提供IMDB的链接地址" target="_blank">More Info</a>--></td>
 							</tr>
 						</table>
 					</td>
@@ -63,42 +63,66 @@
 	
 	<div class="preview">
 		<h2 class="title">花絮</h2>
-		<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;position:relative;">
-			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTczMDQzNzQw" allowfullscreen></iframe>
-			<h2 class="header">花絮1 - 简介</h2>
-			<p class="intro">电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高。</p>
-			<div style="position:absolute;right:0;top:584px;">
-				<div class="jiathis_style_32x32" style="height:32px;">
-					<a class="jiathis_button_qzone"></a>
-					<a class="jiathis_button_tsina"></a>
-					<a class="jiathis_button_tqq"></a>
-					<a class="jiathis_button_weixin"></a>
-					<a class="jiathis_button_renren"></a>
-					<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
-					<a class="jiathis_counter_style"></a>
+		<div style="width:930px;margin: 0 auto;padding:72px 0 0 0;position:relative;">
+			<div data-rel="jia_this" data-index="1">
+				<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTczMDQzNzQw" allowfullscreen></iframe>
+				<h2 class="header">《一夜惊喜》- 花絮1</h2>
+				<p class="intro">范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象</p>
+				<div style="position:absolute;right:0;top:584px;">
+					<div class="jiathis_style_32x32" style="height:32px;">
+						<a class="jiathis_button_qzone"></a>
+						<a class="jiathis_button_tsina"></a>
+						<a class="jiathis_button_tqq"></a>
+						<a class="jiathis_button_weixin"></a>
+						<a class="jiathis_button_renren"></a>
+						<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+						<a class="jiathis_counter_style"></a>
+					</div>
 				</div>
 			</div>
 			
-			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTc1MTEzMzg4" allowfullscreen></iframe>
-			<h2 class="header">花絮2 - 简介</h2>
-			<p class="intro">电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高。</p>
-			<div style="position:absolute;right:0;bottom:52px;">
-				<div class="jiathis_style_32x32" style="height:32px;">
-					<a class="jiathis_button_qzone"></a>
-					<a class="jiathis_button_tsina"></a>
-					<a class="jiathis_button_tqq"></a>
-					<a class="jiathis_button_weixin"></a>
-					<a class="jiathis_button_renren"></a>
-					<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
-					<a class="jiathis_counter_style"></a>
+			<div data-rel="jia_this"  data-index="2">
+				<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTc1MTEzMzg4" allowfullscreen></iframe>
+				<h2 class="header">《一夜惊喜》- 花絮2</h2>
+				<p class="intro">“性感篇”制作特辑 李治廷称导演是最性感的人</p>
+				<div style="position:absolute;right:0;bottom:32px;">
+					<div class="jiathis_style_32x32" style="height:32px;">
+						<a class="jiathis_button_qzone"></a>
+						<a class="jiathis_button_tsina"></a>
+						<a class="jiathis_button_tqq"></a>
+						<a class="jiathis_button_weixin"></a>
+						<a class="jiathis_button_renren"></a>
+						<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+						<a class="jiathis_counter_style"></a>
+					</div>
 				</div>
 			</div>
-			
+
 		</div>
 	</div>
 	<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
 	<?php include '../../common/footer.php'; ?>
 		
 </div>
+<script>
+var jiathis_config = {};
+$(function(){
+	var set_config = function(url, title, summary){
+		jiathis_config.url = url || '';
+		jiathis_config.title = title || '';
+		jiathis_config.summary = summary || '';
+	};
+	$('.preview').on('mouseenter', '[data-rel=jia_this]', function(){
+		var index = ~~$(this).attr('data-index');
+		if( index === 1 ){
+			set_config( 'http://v.youku.com/v_show/id_XNTczMDQzNzQw.html', '《一夜惊喜》- 花絮', '范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象' );
+			console.log(jiathis_config);
+		} else if( index === 2 ){
+			set_config( 'http://v.youku.com/v_show/id_XNTc1MTEzMzg4.html', '《一夜惊喜》- 花絮', '“性感篇”制作特辑 李治廷称导演是最性感的人' );
+			console.log(jiathis_config);
+		};
+	});
+});
+</script>
 </body>
 </html>

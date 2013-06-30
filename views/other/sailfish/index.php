@@ -73,7 +73,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 								<td class="content">东川 / Dong Chuan，Filmko (HK)</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/91347/" target="_blank">更多信息</a> / <a href="请提供IMDB的链接地址" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/85246/" target="_blank">更多信息</a> / <a href="http://www.imdb.com/title/tt1260684/" target="_blank">More Info</a></td>
 							</tr>
 						</table>
 					</td>

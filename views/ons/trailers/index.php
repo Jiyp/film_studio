@@ -52,7 +52,7 @@
 								<td class="content">环亚 / Media Asia，华夏视听 / Cathay Audiovisual, 萌影画 / Drwa & Shoot</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a> / <a href="请提供IMDB的链接地址" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a><!--  / <a href="请提供IMDB的链接地址" target="_blank">More Info</a>--></td>
 							</tr>
 						</table>
 					</td>
@@ -65,8 +65,8 @@
 		<h2 class="title">预告片</h2>
 		<div style="width:930px;margin: 0 auto;padding:72px 0 0 0;position:relative;">
 			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTcwMDEzNjU2" allowfullscreen></iframe>
-			<h2 class="header">预告片1 - 简介</h2>
-			<p class="intro">电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高。</p>
+			<h2 class="header">性感喜剧《一夜惊喜》前戏版预告片 范冰冰红唇美腿扑倒众型男</h2>
+			<p class="intro">《一夜惊喜》讲述了步入三十的金领米雪（范冰冰 饰）与参加自己生日派对的某男性醉后共度一晚，当得知自己怀孕的消息后，决定去寻找孩子亲生父亲的爱情喜剧。</p>
 			<div style="position:absolute;right:0;top:584px;">
 				<div class="jiathis_style_32x32" style="height:32px;">
 					<a class="jiathis_button_qzone"></a>
@@ -89,8 +89,8 @@
 var jiathis_config = {
 	url: "http://hmu078207.chinaw3.com/views/ons/trailers/", 
 	title: "一夜惊喜 #ONS#", 
-	summary:"电影《一夜惊喜》讲述了广告公司的女高管米雪在一场生日派对之后，纠结于多个激萌帅哥之间的性感喜剧故事。该片由电影《非常完美》的导演金依萌执导，范冰冰、李治廷、Daniel Henney、蒋劲夫、吴佩慈等主演。发布会现场，范冰冰和金依萌被三位帅哥包围，幸福指数一路飙高" 
-} 
+	summary:"性感喜剧《一夜惊喜》前戏版预告片 范冰冰红唇美腿扑倒众型男" 
+};
 </script>
 </body>
 </html>
