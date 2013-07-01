@@ -27,19 +27,19 @@
 					</tr>
 					<tr>
 						<td class="item">电　话：</td>
-						<td class="detail">010-88888888</td>
+						<td class="detail">+86 10 64821172</td>
 					</tr>
 					<tr>
 						<td class="item">传　真：</td>
-						<td class="detail">010-88888888</td>
+						<td class="detail">+86 10 64821172</td>
 					</tr>
 					</tr>
 						<td class="item">要合作：</td>
-						<td class="detail">myh@cccc.com</td>
+						<td class="detail">bd@mengfilms.com</td>
 					</tr>
 					</tr>
 						<td class="item">要工作：</td>
-						<td class="detail">jobs@sdfsdf.com</td>
+						<td class="detail">hr@mengfilms.com</td>
 					</tr>
 				</table>
 			</div>

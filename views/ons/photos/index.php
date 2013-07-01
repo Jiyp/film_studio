@@ -53,7 +53,7 @@
 								<td class="content">环亚 / Media Asia，华夏视听 / Cathay Audiovisual, 萌影画 / Drwa & Shoot</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a> / <a href="请提供IMDB的链接地址" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a><!-- / <a href="请提供IMDB的链接地址" target="_blank">More Info</a>--></td>
 							</tr>
 						</table>
 					</td>
@@ -68,19 +68,39 @@
 			<h2>金依萌 Eva Jin</h2>
 			<div class="slider_inner">
 				<ul class="comm_list clearfix">
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=1&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_1.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=2&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_2.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=3&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_3.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=4&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_4.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/fbb.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=5&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_5.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					<!-- <li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_6.jpg" class="img_box"></a>
+					</li>-->
+					<li><a href="/views/large?i=7&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_7.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/book.png" class="img_box"></a>
+					<li><a href="/views/large?i=8&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_8.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=9&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_9.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=10&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_10.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=11&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_11.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=12&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_12.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=13&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_13.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=14&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_14.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=15&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_15.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=16&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_16.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=17&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_17.jpg" class="img_box"></a>
 					</li>
 				</ul>
 				<div class="arrow_left png_fix"></div>
@@ -92,23 +112,21 @@
 			<h2>范冰冰 Fan Bingbing</h2>
 			<div class="slider_inner">
 				<ul class="comm_list clearfix">
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/0.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=1&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_1.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/1.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=2&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_2.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/9.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=3&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_3.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/10.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=4&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_4.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/12.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=5&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_5.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/13.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=6&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_6.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/17.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=7&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_7.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/18.jpg" class="img_box"></a>
-					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jz/19.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=8&f=1" target="_blank" class="imgs_box"><img src="/public/images/s/1/img_8.jpg" class="img_box"></a>
 					</li>
 				</ul>
 				<div class="arrow_left png_fix"></div>
@@ -120,19 +138,88 @@
 			<h2>李治延 Aarif Rahman</h2>
 			<div class="slider_inner">
 				<ul class="comm_list clearfix">
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=1&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_1.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=2&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_2.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=3&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_3.jpg" class="img_box"></a>
 					</li>
-					<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/lzy.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=4&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_5.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=6&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_6.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=7&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_7.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=8&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_8.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=9&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_9.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=10&f=4" target="_blank" class="imgs_box"><img src="/public/images/s/4/img_10.jpg" class="img_box"></a>
 					</li>
 				</ul>
 				<div class="arrow_left png_fix"></div>
 				<div class="arrow_right png_fix"></div>
 			</div>
 		</div>
+		
+		<div class="slider">
+			<h2>丹尼尔 Daniel Henney</h2>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_5.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
+		</div>
+		
+		<div class="slider">
+			<h2>吴佩慈 Pace Wu</h2>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=3" target="_blank" class="imgs_box"><img src="/public/images/s/3/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=3" target="_blank" class="imgs_box"><img src="/public/images/s/3/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=3" target="_blank" class="imgs_box"><img src="/public/images/s/3/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=3" target="_blank" class="imgs_box"><img src="/public/images/s/3/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=3" target="_blank" class="imgs_box"><img src="/public/images/s/3/img_5.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
+		</div>
+		
+		<div class="slider">
+			<h2>蒋劲夫 Jinfu Jiang</h2>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=2" target="_blank" class="imgs_box"><img src="/public/images/s/2/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=2" target="_blank" class="imgs_box"><img src="/public/images/s/2/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=2" target="_blank" class="imgs_box"><img src="/public/images/s/2/img_3.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
+		</div>
+		
 	</div>
 	<?php include '../../common/footer.php'; ?>
 		

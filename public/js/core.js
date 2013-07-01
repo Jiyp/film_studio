@@ -21,36 +21,42 @@ $(function(){
 			arrow_right = opts.arrow_right;
 		var $left = $c.find(arrow_left);
 		var $right = $c.find(arrow_right);
-		$c.on('mouseenter', function(){
-			$left.show();
-			$right.show();
-		});	
-		$c.on('mouseleave', function(){
+		if( len > 4 ){
+			$c.on('mouseenter', function(){
+				$left.show();
+				$right.show();
+			});	
+			$c.on('mouseleave', function(){
+				$left.hide();
+				$right.hide();
+			});
+			$left.on('click', function(){
+				if( counter === 0 ){
+					//$(this).attr('title', '没有上一张了');
+					return;
+				}
+				//$(this).attr('title', '点击浏览上一张');
+				counter++;
+				$ul.animate({
+					left : (counter * width) + 'px'
+				}, 500);
+			});
+			$right.on('click', function(){
+				if( counter === 4 - len ){
+					//$(this).attr('title', '没有下一张了');
+					return;
+				}
+				//$(this).attr('title', '点击浏览下一张');
+				counter--;
+				$ul.animate({
+					left : (counter * width) + 'px'
+				}, 500);
+			});
+		} else {
 			$left.hide();
 			$right.hide();
-		});
-		$left.on('click', function(){
-			if( counter === 0 ){
-				//$(this).attr('title', '没有上一张了');
-				return;
-			}
-			//$(this).attr('title', '点击浏览上一张');
-			counter++;
-			$ul.animate({
-				left : (counter * width) + 'px'
-			}, 500);
-		});
-		$right.on('click', function(){
-			if( counter === 4 - len ){
-				//$(this).attr('title', '没有下一张了');
-				return;
-			}
-			//$(this).attr('title', '点击浏览下一张');
-			counter--;
-			$ul.animate({
-				left : (counter * width) + 'px'
-			}, 500);
-		});
+		}
+		
 	};
 	
 	var $slider = $('.slider_inner');
