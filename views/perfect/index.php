@@ -134,14 +134,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	<div class="slider">
 		<h2>花絮 Behind the Scenes Videos</h2>
 		<ul class="video_list clearfix">
-			<li><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
-				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
-				<param name="quality" value="high">
-				<param name="allowFullScreen" value="true">
-				<param name="menu" value="false">
-				<param name="wmode" value="transparent">
-				<param name="allowScriptAccess" value="always">
-				<embed wmode="transparent" allowscriptaccess="always" allowfullscreen="true" play="true" src="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></object></li>
+			<li><embed src="http://www.tudou.com/o/HuPV1J7WZvI/&resourceId=0_05_05_99&iid=130462140&bid=05/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="410" height="290"></embed></li>
 			<li class="last"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
 				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
 				<param name="quality" value="high">
