@@ -1,3 +1,1 @@
-﻿@charset "utf-8";
-/*地图和地址*/
-@import url("../module/map.css");
+@charset "utf-8";.map{width:100%;background:url(../../images/bg02.png) repeat #f7f7f7;position:relative}.map .wrap{width:850px;margin:0 auto;height:250px;padding-top:50px}.map .wrap .geo{float:left;width:350px}.map .wrap .info{float:left;width:450px;margin-left:50px}.map .name{height:30px;vertical-align:middle;font-size:14px;font-weight:bold}.map .item{color:#666;width:50px;height:26px;text-align:left;vertical-align:middle}.map .detail{font-weight:bold}

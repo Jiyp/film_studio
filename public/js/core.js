@@ -22,14 +22,14 @@ $(function(){
 		var $left = $c.find(arrow_left);
 		var $right = $c.find(arrow_right);
 		if( len > 4 ){
-			$c.on('mouseenter', function(){
+			/*$c.on('mouseenter', function(){
 				$left.show();
 				$right.show();
 			});	
 			$c.on('mouseleave', function(){
 				$left.hide();
 				$right.hide();
-			});
+			});*/
 			$left.on('click', function(){
 				if( counter === 0 ){
 					//$(this).attr('title', '没有上一张了');

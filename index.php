@@ -81,7 +81,8 @@
 		<div class="weibo">
 			<h2 class="title png_fix">微博动态</h2>
 			<div>
-			<iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=300&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=1149989810&verifier=78e1ee4d&dpc=1"></iframe>
+			<iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=300&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3462839572&verifier=4bd8594e&dpc=1"></iframe>
+
 			</div>
 		</div>
 		

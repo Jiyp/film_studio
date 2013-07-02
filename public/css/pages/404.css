@@ -1,2 +1,1 @@
-﻿@charset "utf-8";
-@import url("../module/404.css");
+@charset "utf-8";.not_found{width:100%;padding:100px 0;background:url(../../images/bg02.png) repeat #f7f7f7;position:relative;border-top:1px solid #ccc}@-webkit-keyframes x-rotate{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}#zero{-webkit-transform-style:preserve-3d;-webkit-animation-name:x-rotate;-webkit-animation-duration:3s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:linear}.trans{float:left;height:92px}.info{margin-top:20px;font-weight:bold;font-size:20px;font-family:\5fae\8f6f\96c5\9ed1;text-align:center}
