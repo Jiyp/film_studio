@@ -14,7 +14,7 @@
 <div id="main">
 		<?php include './views/common/header.php'; ?>
 		<div class="brief">
-			<div class="bg"><img src="/public/images/quotation_bg_2.png" style="width:100%;height:404px;" /></div>
+			<div class="bg"><img src="/public/images/quotation_bg.png" style="width:100%;height:404px;" /></div>
 			<div class="content">
 				<!-- <h1 class="png_fix">logo</h1>-->
 				<p style="margin-top:50px;">Hi,欢迎来到萌影画工作室。我们是热爱电影的爱好者。这里有几个我们的作品，</p>
