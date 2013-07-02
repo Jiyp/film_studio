@@ -1,5 +1,5 @@
 <div class="footer">
-	<a id="wb_icon" class="icon" href="http://weibo.com/1645180423/"><img class="png_fix" width="64" height="64" src="<?= $host?>/public/images/weibo_63.png"></a>
+	<a id="wb_icon" class="icon png_fix" href="http://weibo.com/1645180423/"><!-- <img class="png_fix" width="64" height="64" src="<?= $host?>/public/images/weibo.png">--></a>
 	<p class="name">draw<span>and</span>shoot<span>films</span></p>
 	<p>萌影画工作室 版权所有</p>
 </div>
