@@ -12,6 +12,7 @@
 $(function(){
     //.m_nav_home, .logo, .png_fix, .title, .my_works'
     DD_belatedPNG.fix('.png_fix');
+    document.execCommand("BackgroundImageCache",false,true);
 });
 </script>
 <![endif]-->

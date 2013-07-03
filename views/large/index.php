@@ -49,8 +49,8 @@ if( array_search($folder, $arr) < 6 ){
 		}
 	</style>
 	<script>
-	var $G = {
-		get_size : function( img_w, img_h, max_w, max_h ){
+    (function(){
+		var get_size = function( img_w, img_h, max_w, max_h ){
 			var h = 0, w = 0;
 			if( img_w > 0 && img_h > 0 ){
 				if( img_w/img_h >= max_w/max_h){
@@ -59,18 +59,23 @@ if( array_search($folder, $arr) < 6 ){
 					img_h > max_h ? (h = max_h,w = ( img_w * max_h )/img_h) : (w = img_w,h = img_h);
 				}
 			}
-			return { w : parseInt(w,10), h : parseInt(h,10) }
-		},
-		init : function(_img){
-			var size = $G.get_size( _img.width, _img.height, 960, 640 );
-			_img.width = size.w;
-			_img.height = size.h;
-			var stage = document.getElementById('stage_inner');
-			_img.style.display = 'block';
-			stage.style.width = size.w + 'px';
-			document.getElementById('btn_bar').style.display = 'block';
-		}
-	};
+			return { w : parseInt(w,10), h : parseInt(h,10) };
+		};
+        var img = new Image();
+        img.onload = function(){
+            img.onload = null;
+            var size = get_size( img.width, img.height, 960, 640 );
+            var _img = document.getElementById('big_img');
+            _img.src = img.src;
+            _img.width = size.w;
+            _img.height = size.h;
+            var stage = document.getElementById('stage_inner');
+            stage.style.width = size.w + 'px';
+            _img.style.display = 'block';
+            document.getElementById('btn_bar').style.display = 'block';
+        };
+        img.src = "<?= $img_src ?>";
+    })();
 	</script>
 </head>
 <body>
@@ -81,7 +86,7 @@ if( array_search($folder, $arr) < 6 ){
 		<div id="stage_inner">
 			<div id="btn_bar"><a href="<?=$link_back ?>"><img src="/public/images/btn_back.png" /></a>
 			<a href="javascript:location.href='/views/download?f=<?=$folder?>&id=<?=$id?>'" style="margin-left:15px;"><img src="/public/images/btn_dld.png" /></a></div>
-			<img id="big_img" src="<?= $img_src ?>"  onload="$G.init(this)" />
+			<img id="big_img" />
 		</div>
 	</div>
 	
