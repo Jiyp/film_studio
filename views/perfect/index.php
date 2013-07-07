@@ -43,38 +43,38 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">非常完美 / Sophie's Revenge</td>
+								<td class="file_name" colspan="2">非常完美  Sophie's Revenge</td>
 							</tr>
 							<tr>
-								<td class="item">导演 / Director：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">导演  Director：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">主演 / Main Actors：</td>
-								<td class="content">章子怡 / Zhang Ziyi，范冰冰 / Fan Bingbing, 何润东 / Peter Ho, 苏志燮 / Ji-seob So, 姚晨  / Chen Yao, 林心如 / Ruby Lin， 爱万 / Ai Wan, 王姬 / Wang Ji</td>
+								<td class="item">主演  Main Actors：</td>
+								<td class="content">章子怡  Zhang Ziyi，范冰冰  Fan Bingbing, 何润东  Peter Ho, 苏志燮  Ji-seob So, 姚晨   Chen Yao, 林心如  Ruby Lin， 爱万  Ai Wan, 王姬  Wang Ji</td>
 							</tr>
 							<tr>
-								<td class="item">类型 / Genre：</td>
-								<td class="content">爱情，浪漫，喜欢 / Romantic Comedy</td>
+								<td class="item">类型  Genre：</td>
+								<td class="content">爱情，浪漫，喜欢  Romantic Comedy</td>
 							</tr>
 							<tr>
-								<td class="item">上映日期 / Release：</td>
-								<td class="content">2009年8月13日 / August 13, 2009</td>
+								<td class="item">上映日期  Release：</td>
+								<td class="content">2009年8月13日  August 13, 2009</td>
 							</tr>
 							<tr>
-								<td class="item">片长 / Length：</td>
-								<td class="content">108分钟 / 108 min</td>
+								<td class="item">片长  Length：</td>
+								<td class="content">108分钟  108 min</td>
 							</tr>
 							<tr>
-								<td class="item">编剧 / Writer：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">编剧  Writer：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">制片 / Producers：</td>
-								<td class="content">完美世界 / Perfect World，CJE / CJEntertainment, 金依萌 / Eva Jin</td>
+								<td class="item">制片  Producers：</td>
+								<td class="content">完美世界  Perfect World，CJE  CJEntertainment, 金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/91347/" target="_blank">更多信息</a> / <a href="http://www.imdb.com/title/tt1303833/" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/91347/" target="_blank">更多信息</a>  <a href="http://www.imdb.com/title/tt1303833/" target="_blank">More Info</a></td>
 							</tr>
 						</table>
 					</td>

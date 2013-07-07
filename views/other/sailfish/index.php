@@ -42,38 +42,38 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">旗鱼 / Sailfish</td>
+								<td class="file_name" colspan="2">旗鱼  Sailfish</td>
 							</tr>
 							<tr>
-								<td class="item">导演 / Director：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">导演  Director：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">主演 / Main Actors：</td>
-								<td class="content">毛舜筠 / Teresa Mo，余佳哝 / Vanessa Yu, 王骏毅 / Wang Junyi, 于晓光 / Yu Xiaoguang</td>
+								<td class="item">主演  Main Actors：</td>
+								<td class="content">毛舜筠  Teresa Mo，余佳哝  Vanessa Yu, 王骏毅  Wang Junyi, 于晓光  Yu Xiaoguang</td>
 							</tr>
 							<tr>
-								<td class="item">类型 / Genre：</td>
-								<td class="content">剧情，动作，运动 / Drama, Sports</td>
+								<td class="item">类型  Genre：</td>
+								<td class="content">剧情，动作，运动  Drama, Sports</td>
 							</tr>
 							<tr>
-								<td class="item">上映日期 / Release：</td>
-								<td class="content">2008年6月27号 / June 27, 2008</td>
+								<td class="item">上映日期  Release：</td>
+								<td class="content">2008年6月27号  June 27, 2008</td>
 							</tr>
 							<tr>
-								<td class="item">片长 / Length：</td>
-								<td class="content">95分钟 / 95 min</td>
+								<td class="item">片长  Length：</td>
+								<td class="content">95分钟  95 min</td>
 							</tr>
 							<tr>
-								<td class="item">编剧 / Writer：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">编剧  Writer：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">制片 / Producers：</td>
-								<td class="content">东川 / Dong Chuan，Filmko (HK)</td>
+								<td class="item">制片  Producers：</td>
+								<td class="content">东川  Dong Chuan，Filmko (HK)</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.mtime.com/85246/" target="_blank">更多信息</a> / <a href="http://www.imdb.com/title/tt1260684/" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.mtime.com/85246/" target="_blank">更多信息</a>  <a href="http://www.imdb.com/title/tt1260684/" target="_blank">More Info</a></td>
 							</tr>
 						</table>
 					</td>

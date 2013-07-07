@@ -40,38 +40,38 @@ Steven finds his novel's character coming to life with a message that he must co
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">第十七个人 / The 17th Man</td>
+								<td class="file_name" colspan="2">第十七个人  The 17th Man</td>
 							</tr>
 							<tr>
-								<td class="item">导演 / Director：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">导演  Director：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">主演 / Main Actors：</td>
+								<td class="item">主演  Main Actors：</td>
 								<td class="content">Scott Openshaw，Jeannine Holley Meis，Bill Kelly</td>
 							</tr>
 							<tr>
-								<td class="item">类型 / Genre：</td>
-								<td class="content">悬念，短片 / Thriller, Short Film</td>
+								<td class="item">类型  Genre：</td>
+								<td class="content">悬念，短片  Thriller, Short Film</td>
 							</tr>
 							<tr>
-								<td class="item">上映日期 / Release：</td>
-								<td class="content">2004年 / 2004</td>
+								<td class="item">上映日期  Release：</td>
+								<td class="content">2004年  2004</td>
 							</tr>
 							<tr>
-								<td class="item">片长 / Length：</td>
-								<td class="content">24分钟 / 24 min</td>
+								<td class="item">片长  Length：</td>
+								<td class="content">24分钟  24 min</td>
 							</tr>
 							<tr>
-								<td class="item">编剧 / Writer：</td>
-								<td class="content">金依萌 / Eva Jin，Adam Kreps</td>
+								<td class="item">编剧  Writer：</td>
+								<td class="content">金依萌  Eva Jin，Adam Kreps</td>
 							</tr>
 							<tr>
-								<td class="item">制片 / Producers：</td>
+								<td class="item">制片  Producers：</td>
 								<td class="content">FSU</td>
 							</tr>
 							<tr>
-								<td colspan="2"><a href="http://movie.douban.com/subject/3920773/" target="_blank">更多信息</a> / <a href="http://www.imdb.com/title/tt0397852/" target="_blank">More Info</a></td>
+								<td colspan="2"><a href="http://movie.douban.com/subject/3920773/" target="_blank">更多信息</a>  <a href="http://www.imdb.com/title/tt0397852/" target="_blank">More Info</a></td>
 							</tr>
 						</table>
 					</td>
