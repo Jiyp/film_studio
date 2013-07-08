@@ -38,7 +38,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
-					<td class="picture"><img src="<?=$host?>/public/images/fcwm.jpg"/></td>
+					<td class="picture"><img src="<?=$host?>/public/images/poster/fcwm.png"/></td>
 					<td width="30"></td>
 					<td>
 						<table align="left">
@@ -59,7 +59,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 							</tr>
 							<tr>
 								<td class="item">上映日期  Release：</td>
-								<td class="content">2009年8月13日  August 13, 2009</td>
+								<td class="content">2009年8月14日  August 14, 2009</td>
 							</tr>
 							<tr>
 								<td class="item">片长  Length：</td>

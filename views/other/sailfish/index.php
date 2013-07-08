@@ -37,7 +37,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
-					<td class="picture"><img src="<?=$host?>/public/images/qiyu.jpg"/></td>
+					<td class="picture"><img src="<?=$host?>/public/images/poster/sailfish.jpg"/></td>
 					<td width="30"></td>
 					<td>
 						<table align="left">

@@ -28,14 +28,14 @@ if( in_array($uri, $ons) ){
 			</div>
 			</li>
 			<li <?php if($key == 1){echo $nav_current;}; ?>><a href="/views/perfect" class="link"><span class="valign">非常完美</span><p>Sophie's Revenge</p></a></li>
-			<li <?php if($key == 2){echo $nav_current;}; ?>><a href="/views/other/sailfish/" class="link"><span class="valign">其他作品</span><p>Other work</p></a>
+			<li <?php if($key == 2){echo $nav_current;}; ?>><a href="/views/other/sailfish/" class="link"><span class="valign">其他作品</span><p>Other Work</p></a>
 			<div class="sub_nav" style="width:192px;right:-13px;<?php if($key != 2){echo ';display:none;';}; ?>">
 				<a href="/views/other/book/" <?php if($uri == "/views/other/book/"){echo $sub_current;}; ?>><p>漫画书</p><span>Book</span></a>
 				<a href="/views/other/17th/" <?php if($uri == "/views/other/17th/"){echo $sub_current;}; ?>><p>第十七个人</p><span>The 17th Man</span></a>
 				<a href="/views/other/sailfish/" <?php if($uri == "/views/other/sailfish/"){echo $sub_current;}; ?> ><p>旗鱼</p><span>Sailfish</span></a>
 			</div>
 			</li>
-			<li <?php if($key == 3){echo $nav_current;}; ?>><a href="/views/aboutus"  class="link"><span class="valign">关于我们</span><p>About us</p></a>
+			<li <?php if($key == 3){echo $nav_current;}; ?>><a href="/views/aboutus"  class="link"><span class="valign">关于我们</span><p>About Us</p></a>
 			<div class="sub_nav" style="width:115px;right:-10px;<?php if($key != 3){echo 'display:none;';}; ?>">
 				<a href="/views/aboutus/news/" <?php if($uri == "/views/aboutus/news/"){echo $sub_current;}; ?> ><p>新闻</p><span>News</span></a>
 				<a href="/views/aboutus/contactus/" <?php if($uri == "/views/aboutus/contactus/"){echo $sub_current;}; ?>><p>联系我们</p><span>Contact Us</span></a>

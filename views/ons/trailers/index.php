@@ -16,7 +16,7 @@
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
-					<td class="picture"><img src="<?=$host?>/public/images/ons.jpg"/></td>
+					<td class="picture"><img src="<?=$host?>/public/images/poster/ons.jpg"/></td>
 					<td width="30"></td>
 					<td>
 						<table align="left">
