@@ -22,35 +22,35 @@
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">一夜惊喜 / One Night Surprise</td>
+								<td class="file_name" colspan="2">一夜惊喜  One Night Surprise</td>
 							</tr>
 							<tr>
-								<td class="item">导演 / Director：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">导演  Director：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">主演 / Main Actors：</td>
-								<td class="content">范冰冰 / FanBingbing, 李致岩 / Aarif Rahman, 丹尼尔.海尼 / Daniel Henney, 吴佩慈 / Pace Wu, 蒋劲夫 / Jinfu Jiang, 徐峥 / Zheng Xu</td>
+								<td class="item">主演  Main Actors：</td>
+								<td class="content">范冰冰  FanBingbing, 李致岩  Aarif Rahman, 丹尼尔.海尼  Daniel Henney, 吴佩慈  Pace Wu, 蒋劲夫  Jinfu Jiang, 徐峥  Zheng Xu</td>
 							</tr>
 							<tr>
-								<td class="item">类型 / Genre：</td>
-								<td class="content">爱情，浪漫，喜欢 / Romantic Comedy</td>
+								<td class="item">类型  Genre：</td>
+								<td class="content">爱情，浪漫，喜欢  Romantic Comedy</td>
 							</tr>
 							<tr>
-								<td class="item">上映日期 / Release：</td>
-								<td class="content">2013 七夕档期 / Late Summer 2013</td>
+								<td class="item">上映日期  Release：</td>
+								<td class="content">2013 七夕档期  Late Summer 2013</td>
 							</tr>
 							<tr>
-								<td class="item">片长 / Length：</td>
-								<td class="content">100分钟 / 100 min</td>
+								<td class="item">片长  Length：</td>
+								<td class="content">100分钟  100 min</td>
 							</tr>
 							<tr>
-								<td class="item">编剧 / Writer：</td>
-								<td class="content">金依萌 / Eva Jin</td>
+								<td class="item">编剧  Writer：</td>
+								<td class="content">金依萌  Eva Jin</td>
 							</tr>
 							<tr>
-								<td class="item">制片 / Producers：</td>
-								<td class="content">环亚 / Media Asia，华夏视听 / Cathay Audiovisual, 萌影画 / Drwa & Shoot</td>
+								<td class="item">制片  Producers：</td>
+								<td class="content">环亚  Media Asia，华夏视听  Cathay Audiovisual, 萌影画  Drwa & Shoot</td>
 							</tr>
 							<tr>
 								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a><!-- / <a href="请提供IMDB的链接地址" target="_blank">More Info</a>--></td>
@@ -174,9 +174,9 @@
 					</li>
 					<li><a href="/views/large?i=3&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_3.jpg" class="img_box"></a>
 					</li>
-					<li><a href="/views/large?i=4&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_4.jpg" class="img_box"></a>
+					<li style="text-align:center;"><a href="/views/large?i=4&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_4.jpg" class="img_box" style="width:200px;height:133px;"></a>
 					</li>
-					<li><a href="/views/large?i=5&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_5.jpg" class="img_box"></a>
+					<li style="text-align:center;"><a href="/views/large?i=5&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_5.jpg" class="img_box" style="width:103px;height:132px;"></a>
 					</li>
 				</ul>
 				<div class="arrow_left png_fix"></div>

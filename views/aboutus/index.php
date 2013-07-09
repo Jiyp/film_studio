@@ -24,17 +24,14 @@
 		<div class="wrap">
 			<table class="pic_info">
 				<tr>
-					<td class="picture"><img src="<?=$host?>/public/images/eva_jin/1.jpg"/></td>
+					<td class="picture" width=201 height=300 style="text-align:center;vertical-align:top;color:#39c;"><img src="<?=$host?>/public/images/eva_jin/1.jpg"/><!--<h2>金依萌</h2><p>导演、编剧、制片人、漫画家</p>--></td>
 					<td width="30"></td>
-					<td>
-						<table align="left" width=510>
+					<td style="vertical-align:top;">
+						<table align="left" width=600>
 							<tr>
-								<td class="file_name" style="font-size:14px;">金依萌</td>
+								<td class="item" style="width:600px;"><p>出生在黑龙江，本科毕业于中国音乐学院歌剧系，于佛罗里达州立大学电影学院进修，2003年毕业并获导演硕士学位。是美国编剧协会(The Writers Guild of America)中国大陆唯一成员，多部中、英文电影剧本被好莱坞电影公司相中并购买。</p><p>金依萌的毕业作品短电影《第17个人》获2004美国电视协会的大学生艾美奖（Emmy College Award）。被美国《好莱坞报道》杂志 (The Hollywood Reporter) 评为“亚洲新生代（Next Generation Asia）”，是迄今为止，内地唯一获此殊荣的女导演。</p><p>2009年编剧、导演电影《非常完美》，开创了中国时尚爱情喜剧电影的新时代，成为华语第一个票房过亿女导演。2010年，这部影片被美国Mosaic Media Group制片公司买下英文翻拍版权，金依萌作为本片编剧，成为内地剧本被美国翻拍的第一人。</p><p>2011年，策划与好莱坞影星威尔·史密斯合作，拍摄FOX制作的新罪案剧集。2012年策划与俄国名导演提莫·贝克曼贝托夫（好莱坞电影《通缉令》导演）合拍合作片。</p><p>2012年9月，金依萌担纲导演、编剧的第二部浪漫喜剧类型片《一夜惊喜》开机，将于2013年8月上映。</p></td>
 							</tr>
-							<tr>
-								<td class="item" style="width:510px;">华语影坛第一个票房过亿女导演，2009年最时髦导演。被美国《好莱坞报道》杂志评为“亚洲新生代”。是迄今为止内地唯一获此殊荣的女导演,也是内地剧本被美国翻拍的第一人。2009年，由其执导、编剧并参与制片的爱情时尚大片《非常完美》票房过亿，剧中章子怡、范冰冰、姚晨、林心如、何润东等著名演员的演技都有了很大突破，引起了当时的话观影热潮。被称为中国浪漫爱情喜剧的开山之作，到目前为止无人超越。《一夜惊喜》是其酝酿三年的又一部力作，将成为中国爱情喜剧电影的新坐标。</td>
-							</tr>
-							<tr>
+							<!--<tr>
 								<td class="file_name" style="font-size:14px;">Eva Jin</td>
 							</tr>
 							<tr>
@@ -42,11 +39,18 @@
 17th Man",  Eva was named as one of Asia’s hottest next generation directors by Hollywood in 2010. She has attracted attention in China for her international directing style. With her 2009 box office hit Sophie’s Revenge (非常完美), which she wrote, directed and produced, Eva became the first female Chinese filmmaker to break 100 million
 RMB at the box office, and the first of a new generation of Chinese filmmakers making movies the
 "Hollywood way".</td>
-							</tr>
+							</tr>-->
 						</table>
 					</td>
 				</tr>
 			</table>
+			<div style="width:840px;">
+				<h2>获奖情况</h2>
+				<h3>《非常完美》</h3>
+				<ul>
+					<li>2010年获得《好莱坞报道》“亚洲新生代”大奖</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 	

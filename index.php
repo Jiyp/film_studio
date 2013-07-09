@@ -28,7 +28,7 @@
 				<h2 class="title png_fix">我们的作品</h2>
 				<ul class="movie_list clearfix">
 					<li>
-						<img src="/public/images/pic_1_gray_293.png" />
+						<img src="/public/images/home/work_1.jpg" />
                         <div class="mask"><h1>一夜惊喜预告片</h1></div>
 					</li>
                     <li>
@@ -81,7 +81,8 @@
 		<div class="weibo">
 			<h2 class="title png_fix">微博动态</h2>
 			<div>
-			<iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=300&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3462839572&verifier=4bd8594e&dpc=1"></iframe>
+			<iframe width="454" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3462839572&verifier=4bd8594e&dpc=1"></iframe>
+			<iframe width="454" height="550" style="margin-left:18px;" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=9&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=3462839572&verifier=4bd8594e&dpc=1"></iframe>
 
 			</div>
 		</div>
