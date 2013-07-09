@@ -19,7 +19,7 @@
 </div>
 <div class="v_line"></div>
 	<div class="en">
-Writer, Director and Producer of "F*** I’m Pregnant", "Sophie's Revenge", "Sailfish" and the award-winning short film "The
+Writer, Director and Producer of "One Night Surprise", "Sophie's Revenge", "Sailfish" and the award-winning short film "The
 17th Man",  Eva was named as one of Asia’s hottest next generation directors by Hollywood in 2010. She has attracted attention in China for her international directing style. With her 2009 box office hit Sophie’s Revenge (非常完美), which she wrote, directed and produced, Eva became the first female Chinese filmmaker to break 100 million
 RMB at the box office, and the first of a new generation of Chinese filmmakers making movies the
 "Hollywood way".
