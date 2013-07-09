@@ -174,9 +174,9 @@
 					</li>
 					<li><a href="/views/large?i=3&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_3.jpg" class="img_box"></a>
 					</li>
-					<li style="text-align:center;"><a href="/views/large?i=4&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_4.jpg" class="img_box" style="width:200px;height:133px;"></a>
+					<li style="text-align:center;"><a href="/views/large?i=4&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_4.jpg" class="img_box"></a>
 					</li>
-					<li style="text-align:center;"><a href="/views/large?i=5&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_5.jpg" class="img_box" style="width:103px;height:132px;"></a>
+					<li style="text-align:center;"><a href="/views/large?i=5&f=0" target="_blank" class="imgs_box"><img src="/public/images/s/0/img_5.jpg" class="img_box"></a>
 					</li>
 				</ul>
 				<div class="arrow_left png_fix"></div>

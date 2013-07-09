@@ -31,7 +31,7 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 	</div>
 	
 	<div class="my_book png_fix">
-		<div class="wrap">
+		<div class="wrap" style="width:850px;margin:0 auto;">
 			<table class="book_info">
 				<tr>
 					<td class="picture"><img src="<?=$host?>/public/images/book.png"/></td>
@@ -39,7 +39,7 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 					<td>
 						<table align="left">
 							<tr>
-								<td class="file_name" colspan="2">书刊信息</td>
+								<td class="file_name" colspan="2">非常爱情手册</td>
 							</tr>
 							<tr>
 								<td class="item">当当价：</td>
@@ -77,6 +77,156 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 							<tr>
 								<td class="item">ＩＳＢＮ：</td>
 								<td class="content">9787535442383</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table class="book_info">
+				<tr>
+					<td class="picture"><img src="<?=$host?>/public/images/book_smz.png" /></td>
+					<td width="30"></td>
+					<td>
+						<table align="left">
+							<tr>
+								<td class="file_name" colspan="2">爱情三明智</td>
+							</tr>
+							<tr>
+								<td class="item">当当价：</td>
+								<td class="content">￥5.40</td>
+							</tr>
+							<tr>
+								<td class="item">定　价：</td>
+								<td class="content">￥9.00</td>
+							</tr>
+							<tr>
+								<td class="item">作　者：</td>
+								<td class="content">依萌</td>
+							</tr>
+							<tr>
+								<td colspan="2" class="line">
+									<div></div>
+								</td>
+							</tr>
+							<tr>
+								<td class="item">出 版　社：</td>
+								<td class="content">北京出版社</td>
+							</tr>
+							<tr>
+								<td class="item">出版时间：</td>
+								<td class="content">2001-2-1</td>
+							</tr>
+							<tr>
+								<td class="item">页　　数：</td>
+								<td class="content"></td>
+							</tr>
+							<tr>
+								<td class="item">印　　次：</td>
+								<td class="content"></td>
+							</tr>
+							<tr>
+								<td class="item">ＩＳＢＮ：</td>
+								<td class="content">9787200042238</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table class="book_info">
+				<tr>
+					<td class="picture"><img src="<?=$host?>/public/images/book_sxy.png" /></td>
+					<td width="30"></td>
+					<td>
+						<table align="left">
+							<tr>
+								<td class="file_name" colspan="2">生活速效药</td>
+							</tr>
+							<tr>
+								<td class="item">当当价：</td>
+								<td class="content">￥5.90</td>
+							</tr>
+							<tr>
+								<td class="item">定　价：</td>
+								<td class="content">￥9</td>
+							</tr>
+							<tr>
+								<td class="item">作　者：</td>
+								<td class="content">依萌</td>
+							</tr>
+							<tr>
+								<td colspan="2" class="line">
+									<div></div>
+								</td>
+							</tr>
+							<tr>
+								<td class="item">出 版　社：</td>
+								<td class="content">北京出版社</td>
+							</tr>
+							<tr>
+								<td class="item">出版时间：</td>
+								<td class="content">2001-2-1</td>
+							</tr>
+							<tr>
+								<td class="item">页　　数：</td>
+								<td class="content"></td>
+							</tr>
+							<tr>
+								<td class="item">印　　次：</td>
+								<td class="content"></td>
+							</tr>
+							<tr>
+								<td class="item">ＩＳＢＮ：</td>
+								<td class="content">9787200042382</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table class="book_info">
+				<tr>
+					<td class="picture"><img src="<?=$host?>/public/images/book_hd.jpg" /></td>
+					<td width="30"></td>
+					<td>
+						<table align="left">
+							<tr>
+								<td class="file_name" colspan="2">真实的荒诞</td>
+							</tr>
+							<tr>
+								<td class="item">当当价：</td>
+								<td class="content">￥14.20</td>
+							</tr>
+							<tr>
+								<td class="item">定　价：</td>
+								<td class="content">￥18</td>
+							</tr>
+							<tr>
+								<td class="item">作　者：</td>
+								<td class="content">依萌</td>
+							</tr>
+							<tr>
+								<td colspan="2" class="line">
+									<div></div>
+								</td>
+							</tr>
+							<tr>
+								<td class="item">出 版　社：</td>
+								<td class="content">世界知识出版社</td>
+							</tr>
+							<tr>
+								<td class="item">出版时间：</td>
+								<td class="content">2003-9-1</td>
+							</tr>
+							<tr>
+								<td class="item">页　　数：</td>
+								<td class="content">302</td>
+							</tr>
+							<tr>
+								<td class="item">印　　次：</td>
+								<td class="content"></td>
+							</tr>
+							<tr>
+								<td class="item">ＩＳＢＮ：</td>
+								<td class="content">9787501221066</td>
 							</tr>
 						</table>
 					</td>

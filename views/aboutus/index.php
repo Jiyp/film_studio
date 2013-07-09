@@ -44,11 +44,37 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 					</td>
 				</tr>
 			</table>
-			<div style="width:840px;">
-				<h2>获奖情况</h2>
+			<div class="awards">
+				<!--<h2>获奖情况</h2>-->
+				<img src="http://hmu078207.chinaw3.com/public/images/about_us_awards.png" style="float: right;margin-top:10px;">
 				<h3>《非常完美》</h3>
 				<ul>
 					<li>2010年获得《好莱坞报道》“亚洲新生代”大奖</li>
+					<li>2010年第七届广州大学生电影节组委会特别奖</li>
+					<li>2010年第十二届意大利乌迪内国际电影节开幕影片 Udine Far East - Festival Opening Film</li>
+					<li>2010年第九届纽约亚洲电影节纽约首映 New York Asian Film Festival - New York Premiere</li>
+					<li>2010年第十四届幻想电影节加拿大首映 Fantasia Film Festival – Canada Premiere</li>
+					<li>2009年年度最佳新锐导演奖</li>
+					<li>2009年 罗马尼亚电影周受封“电影文化国际推广大使”</li>
+				</ul>
+				<h3>短电影《第十七个男人》《晚餐》</h3>
+				<img src="http://hmu078207.chinaw3.com/public/images/au_awards_2.png" style="float:right;margin-top:10px;">
+				<ul>
+					<li>获2004美国电视协会的大学生艾美奖　Emmy College Award</li>
+					<li>2004  洛杉矶，首届爱克神与卡特国际短电影比赛，第一名　Action/Cut</li>
+					<li>2004  旧金山，无畏恐怖国际电影节 。最佳导演奖，最佳剧本奖，最佳美术方向奖。Fearless Film Festival</li>
+					<li>2004  崴里国际电影节。 最佳短片奖。Vail Film Festival</li>
+					<li>2004  加洲，萨诺马国际电影节，最佳短片奖 Sonoma Film Festival</li>
+					<li>2004  美海瑞国际电影节。 最佳短片 Myheran Film Festival</li>
+					<li>2004  知洲国际电影节。 最佳短片奖 Zoie Film Festival</li>
+					<li>2004  旁牧必弛国际电影节。 最佳短片奖 Palm Beach Film Festival</li>
+				</ul>
+				<h3>入选</h3>
+				<ul>
+					<li>2004嘎纳电影节的短电影角落　 Cannes Film festival</li>
+					<li>比利牛山国际电影节。 Beverly Hill Film festival</li>
+					<li>纽跑特必弛国际电影节　 Newport Beach Film Festival</li>
+					<li>旁牧斯卜润国际电影节　Palm Spring Film Festival</li>
 				</ul>
 			</div>
 		</div>

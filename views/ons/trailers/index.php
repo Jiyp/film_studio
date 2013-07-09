@@ -63,7 +63,7 @@
 	
 	<div class="preview">
 		<h2 class="title">预告片</h2>
-		<div style="width:930px;margin: 0 auto;padding:72px 0 0 0;position:relative;">
+		<div style="width:930px;margin: 0 auto;padding:72px 0 30px 0;position:relative;">
 			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTcwMDEzNjU2" allowfullscreen></iframe>
 			<h2 class="header">性感喜剧《一夜惊喜》前戏版预告片 范冰冰红唇美腿扑倒众型男</h2>
 			<p class="intro">《一夜惊喜》讲述了步入三十的金领米雪（范冰冰 饰）与参加自己生日派对的某男性醉后共度一晚，当得知自己怀孕的消息后，决定去寻找孩子亲生父亲的爱情喜剧。</p>
@@ -81,6 +81,27 @@
 
 		</div>
 	</div>
+	
+	<div class="poster_wrap">
+		<div class="poster">
+			<h2>海报</h2>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=7" target="_blank" class="imgs_box"><img src="/public/images/s/7/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=7" target="_blank" class="imgs_box"><img src="/public/images/s/7/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=7" target="_blank" class="imgs_box"><img src="/public/images/s/7/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=7" target="_blank" class="imgs_box"><img src="/public/images/s/7/img_4.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
+		</div>
+	</div>
+	
 	<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
 	<?php include '../../common/footer.php'; ?>
 		

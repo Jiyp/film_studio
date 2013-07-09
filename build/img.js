@@ -7,11 +7,11 @@ var config = require('./config');
 var mime_img = ['.jpg', '.jpeg', '.png', '.gif'];
 var dirs = [];
 
-//var dir = path.join(process.cwd());
 var doc_root = config.DOC_ROOT;
 var img_source = path.join( doc_root, config.IMG_SOURCE );
 var img_dest = path.join( doc_root, config.IMG_DEST );
 var rename = config.RENAME;
+
 
 function resize( src, dest, opts ){
 	opts = opts || {};
@@ -58,41 +58,40 @@ function walk( dir, callback ){
     })(dir);
 }
 
-walk(img_source, function(file){
-    console.log(file);
+walk(img_source, function(files){
+	//files.forEach(function(file){
+	for( var i = 0, len = files.length; i < len; i++ ){
+		var file = files[i];
+		var dirname = path.dirname(file);
+		var basename = path.basename(file);
+		var dest = path.join( img_dest, dirname.replace(img_source, ''), basename );
+		var extname = path.extname(file);
+		if( mime_img.indexOf(extname.toLowerCase()) !== -1 ){
+			//console.log(im);
+			var opts = {};
+			im.identify(file, function(err, features){
+				console.log(features);
+			});
+			/*im.identify(file, function(err, features){
+				console.log(features);
+				if (err) {
+					throw err;
+				}
+				
+				var width = features.width;
+				var height = features.height;
+				if( width > height ){ //横版图片
+					opts.width = 200;
+					opts.height = 133;
+				} else { //竖版图片
+					opts.height = 133;
+				}
+				resize( file, dest, opts );
+				
+			});*/
+		}
+		break;
+	};
+		
+	//});
 });
-//walk(path.join(img_source, ''));
-
-/*
-fs.readdir( img_source, function( err, files ){
-	files.forEach(function( file ){
-		fs.stat( file, function(err, stats){
-			if(stats.isFile(file)){
-				var extname = path.extname(file);
-				var basename = path.basename(file, extname);
-				if( mime_img.indexOf(extname.toLowerCase()) !== -1 ){
-					var opts = {};
-					im.identify(file, function(err, features){
-						if (err) {
-							throw err;
-						}
-						var width = features.width;
-						var height = features.height;
-						if( width > height ){ //横版图片
-							opts.width = 200;
-							opts.height = 133;
-						} else { //竖版图片
-							opts.height = 133;
-						}
-						resize( file, basename + '_small' + extname, opts );
-					});
-                }
-			} else if( stats.isDirectory( file ) ){
-				dirs.push( file );
-				console.log(dirs);
-			}
-		});
-	});
-	
-});
-*/

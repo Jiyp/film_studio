@@ -1,0 +1,23 @@
+@charset "utf-8";
+.news_wrap{width:850px;margin:0 auto;padding:20px;border-top:1px solid #ccc;}
+.news_wrap .inner{
+	width:425px;
+	float:left;
+}
+.news_wrap h3{font-size:14px;height:30px;line-height:30px;}
+.news_wrap .news{
+	width:425px;
+}
+.news_wrap .news li{
+	height:26px;
+	line-height:26px;
+	overflow:hidden;
+	padding-left:12px;
+	background:url(../../images/dot.gif) no-repeat left;
+}
+.news_wrap .news li a{
+	color:#000;
+}
+.news_wrap .news li a:hover{
+	color:#3399cc;
+}
