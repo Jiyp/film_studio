@@ -10,18 +10,19 @@ $(function(){
 	});*/
 	
 	// slider
-	var width = 213;
-	
 	$.fn.slider = function( opts ){
 		var $c = $(this),
 			$ul = $c.find('ul'),
-			len = $ul.children().length,
+			children = $ul.children(),
+			width = children.outerWidth(true),
+			len = children.length,
+			max = opts.max || 4,
 			counter = 0,
 			arrow_left = opts.arrow_left,
 			arrow_right = opts.arrow_right;
 		var $left = $c.find(arrow_left);
 		var $right = $c.find(arrow_right);
-		if( len > 4 ){
+		if( len > max ){
 			/*$c.on('mouseenter', function(){
 				$left.show();
 				$right.show();
@@ -30,27 +31,28 @@ $(function(){
 				$left.hide();
 				$right.hide();
 			});*/
+			$left.hide();
 			$left.on('click', function(){
-				if( counter === 0 ){
-					//$(this).attr('title', '没有上一张了');
-					return;
-				}
-				//$(this).attr('title', '点击浏览上一张');
-				counter++;
-				$ul.animate({
-					left : (counter * width) + 'px'
-				}, 500);
-			});
-			$right.on('click', function(){
-				if( counter === 4 - len ){
-					//$(this).attr('title', '没有下一张了');
-					return;
-				}
-				//$(this).attr('title', '点击浏览下一张');
 				counter--;
 				$ul.animate({
-					left : (counter * width) + 'px'
-				}, 500);
+					left : -(counter * width) + 'px'
+				}, 500, function(){
+					if( counter === 0 ){
+						$left.hide();
+					}
+					$right.show();
+				});
+			});
+			$right.on('click', function(){
+				counter++;
+				$ul.animate({
+					left : -(counter * width) + 'px'
+				}, 500, function(){
+					if( counter === len - max ){
+						$right.hide();
+					}
+					$left.show();
+				});
 			});
 		} else {
 			$left.hide();
@@ -61,10 +63,13 @@ $(function(){
 	
 	var $slider = $('.slider_inner');
 	$slider.each(function(){
-		$(this).slider({
+		var max = $(this).attr('data-max');
+		var opts = {
 			arrow_left : '.arrow_left',
 			arrow_right : '.arrow_right'
-		});
+		};
+		max && (opts.max = max);
+		$(this).slider(opts);
 	});
 
 	$slider.on('mouseenter', 'li', function(){

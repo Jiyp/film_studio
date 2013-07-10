@@ -38,10 +38,13 @@
 	height:129px;
 	border : 1px solid #ccc;
 	padding : 3px;
+	overflow:hidden;
 }
-.poster .img_box{
-	/*width:200px;
-	height:133px;*/
+.poster .imgs_box{
+	width:300px;
+	height:129px;
+	display:block;
+	overflow:hidden;
 }
 .poster .arrow_left, .poster .arrow_right{
 	position:absolute;top: 108px;
