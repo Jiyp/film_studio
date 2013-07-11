@@ -85,7 +85,7 @@
 	<div class="poster_wrap">
 		<div class="poster">
 			<h2>海报</h2>
-			<div class="slider_inner" data-max="3" style="position:relative;">
+			<div class="slider_inner" data-max="3" style="position:relative;overflow:hidden;">
 				<ul class="comm_list clearfix">
 					<li><a href="/views/large?i=1&f=7" target="_blank" class="imgs_box"><img src="/public/images/s/7/img_1.jpg"></a>
 					</li>
