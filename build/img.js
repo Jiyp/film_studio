@@ -20,9 +20,10 @@ function resize( src, dest, opts ){
 	opts.height && (args.height = opts.height);
 	args.srcPath = src;
 	args.dstPath = dest;
+    console.log('processing-->' + src);
     im.resize(args, function(err, stdout, stderr){
         if (err) throw err;
-        console.log('resized ' + src  + ' to fit within auto x 133px');
+        console.log('resized ' + src  + ' to fit within auto * 133');
     });
 }
 
@@ -59,39 +60,30 @@ function walk( dir, callback ){
 }
 
 walk(img_source, function(files){
-	//files.forEach(function(file){
 	for( var i = 0, len = files.length; i < len; i++ ){
-		var file = files[i];
-		var dirname = path.dirname(file);
-		var basename = path.basename(file);
-		var dest = path.join( img_dest, dirname.replace(img_source, ''), basename );
-		var extname = path.extname(file);
-		if( mime_img.indexOf(extname.toLowerCase()) !== -1 ){
-			//console.log(im);
-			var opts = {};
-			im.identify(file, function(err, features){
-				console.log(features);
-			});
-			/*im.identify(file, function(err, features){
-				console.log(features);
-				if (err) {
-					throw err;
-				}
-				
-				var width = features.width;
-				var height = features.height;
-				if( width > height ){ //横版图片
-					opts.width = 200;
-					opts.height = 133;
-				} else { //竖版图片
-					opts.height = 133;
-				}
-				resize( file, dest, opts );
-				
-			});*/
-		}
-		break;
-	};
-		
-	//});
+		//var file = files[i];
+        (function(f){
+            var extname = path.extname(f);
+            if( mime_img.indexOf(extname.toLowerCase()) !== -1 ){
+                var dirname = path.dirname(f),
+                    basename = path.basename(f),
+                    dest = path.join( img_dest, dirname.replace(img_source, ''), basename ),
+                    opts = {};
+                im.identify(f, function(err, features){
+                    if (err) {
+                        throw err;
+                    }
+                    var width = features.width;
+                    var height = features.height;
+                    if( width > height ){ //横版图片
+                        opts.width = 200;
+                        opts.height = 133;
+                    } else { //竖版图片
+                        opts.height = 133;
+                    }
+                    resize( f, dest, opts );
+                });
+            }
+        })(files[i]);
+	}
 });

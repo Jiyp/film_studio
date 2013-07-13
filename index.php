@@ -29,29 +29,65 @@
 				<ul class="movie_list clearfix">
 					<li>
 						<img src="/public/images/home/work_1.jpg" />
-                        <div class="mask"><h1>一夜惊喜预告片</h1></div>
+                        <div class="bg-box">
+                          <div class="bg"></div>
+                           <div class="box-content">
+                              <p>一夜惊喜预告片</p>
+                            </div>           
+                        </div>
+                        <!-- <div class="mask"><h1>一夜惊喜预告片</h1></div> -->
 					</li>
                     <li>
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>一夜惊喜花絮</h1></div>
+                        <div class="bg-box">
+                          <div class="bg"></div>
+                           <div class="box-content">
+                              <p>一夜惊喜花絮</p>
+                            </div>           
+                        </div>
+                        <!-- <div class="mask"><h1>一夜惊喜花絮</h1></div> -->
                     </li>
                     <li style="margin-right:0;">
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>一夜惊喜媒体资源</h1></div>
+                        <div class="bg-box">
+                          <div class="bg"></div>
+                           <div class="box-content">
+                              <p>一夜惊喜媒体资源</p>
+                            </div>           
+                        </div>
+                        <!-- <div class="mask"><h1>一夜惊喜媒体资源</h1></div> -->
                     </li>
 				</ul>
                 <ul class="movie_list clearfix">
                     <li>
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>非常完美</h1></div>
+                        <div class="bg-box">
+                          <div class="bg"></div>
+                           <div class="box-content">
+                              <p>非常完美</p>
+                            </div>           
+                        </div>
+                        <!-- <div class="mask"><h1>非常完美</h1></div> -->
                     </li>
                     <li>
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>其他作品</h1></div>
+                        <div class="bg-box">
+                          <div class="bg"></div>
+                           <div class="box-content">
+                              <p>其他作品</p>
+                            </div>           
+                        </div>
+                        <!-- <div class="mask"<h1>其他作品</h1></div> -->
                     </li>
                     <li style="margin-right:0;">
                         <img src="/public/images/pic_1_gray_293.png" />
-                        <div class="mask"><h1>关于我们</h1></div>
+                        <div class="bg-box">
+                          <div class="bg"></div>
+                           <div class="box-content">
+                              <p>关于我们</p>
+                            </div>           
+                        </div>
+                        <!-- <div class="mask"><h1>关于我们</h1></div> -->
                     </li>
                 </ul>
 			</div>
