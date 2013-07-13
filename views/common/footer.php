@@ -1,5 +1,8 @@
 <div class="footer">
-	<a id="wb_icon" class="icon png_fix" href="http://weibo.com/1645180423/"><!-- <img class="png_fix" width="64" height="64" src="<?= $host?>/public/images/weibo.png">--></a>
+	<div class="clearfix" style="width:138px; margin:0 auto;">
+		<a title="萌影画" class="icon wb_icon_blue png_fix" href="http://weibo.com/3462839572/" target="_blank"></a>
+		<a title="金依萌" class="icon wb_icon_orange png_fix" style="margin-left:10px;" href="http://weibo.com/1645180423/" target="_blank"></a>
+	</div>
 	<p class="name">draw<span>and</span>shoot<span>films</span></p>
 	<p>萌影画工作室 版权所有</p>
 </div>

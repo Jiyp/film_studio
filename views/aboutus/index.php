@@ -83,18 +83,22 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 	<div class="F_wrap" style="margin-bottom:40px;">
 		<div class="slider">
 			<h2>金依萌 Eva Jin</h2>
-			<ul class="comm_list clearfix">
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-				<li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/jym.jpg" class="img_box"></a>
-				</li>
-			</ul>
-			<div class="arrow_left png_fix"></div>
-			<div class="arrow_right png_fix"></div>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=8" target="_blank" class="imgs_box"><img src="/public/images/s/8/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=8" target="_blank" class="imgs_box"><img src="/public/images/s/8/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=8" target="_blank" class="imgs_box"><img src="/public/images/s/8/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=8" target="_blank" class="imgs_box"><img src="/public/images/s/8/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=8" target="_blank" class="imgs_box"><img src="/public/images/s/8/img_5.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
 		</div>
 	</div>
 	<?php include '../common/footer.php'; ?>
