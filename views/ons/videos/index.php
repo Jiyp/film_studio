@@ -116,10 +116,10 @@ $(function(){
 		var index = ~~$(this).attr('data-index');
 		if( index === 1 ){
 			set_config( 'http://v.youku.com/v_show/id_XNTczMDQzNzQw.html', '《一夜惊喜》- 花絮', '范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象' );
-			console.log(jiathis_config);
+			//console.log(jiathis_config);
 		} else if( index === 2 ){
 			set_config( 'http://v.youku.com/v_show/id_XNTc1MTEzMzg4.html', '《一夜惊喜》- 花絮', '“性感篇”制作特辑 李治廷称导演是最性感的人' );
-			console.log(jiathis_config);
+			//console.log(jiathis_config);
 		};
 	});
 });

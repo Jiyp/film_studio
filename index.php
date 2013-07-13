@@ -38,7 +38,7 @@
                         <!-- <div class="mask"><h1>一夜惊喜预告片</h1></div> -->
 					</li>
                     <li>
-                        <img src="/public/images/pic_1_gray_293.png" />
+                        <img src="/public/images/home/ons_trailers_gray.jpg" data-src="/public/images/home/ons_trailers.jpg" />
                         <div class="bg-box">
                           <div class="bg"></div>
                            <div class="box-content">
@@ -70,7 +70,7 @@
                         <!-- <div class="mask"><h1>非常完美</h1></div> -->
                     </li>
                     <li>
-                        <img src="/public/images/pic_1_gray_293.png" />
+                        <img src="/public/images/home/works_gray.jpg" data-src="/public/images/home/works.jpg" />
                         <div class="bg-box">
                           <div class="bg"></div>
                            <div class="box-content">

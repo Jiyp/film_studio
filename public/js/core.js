@@ -1,14 +1,13 @@
 $(function(){
-	//weibo icon
-	/*var wb_icon = $('#wb_icon');
-	var base_url = $CONFIG.base_url;
-	wb_icon.on('mouseenter', function(){
-		wb_icon.find('img').attr('src', base_url + '/public/images/weibo_hover.png');
-	});
-	wb_icon.on('mouseleave', function(){
-		wb_icon.find('img').attr('src', base_url + '/public/images/weibo.png');
-	});*/
-	
+	//preload
+	(function(imgs){
+		var href = location.href;
+		var img;
+		for( var i = 0, len = imgs.length; i < len; i++ ){
+			img = new Image();
+			img.src = href + 'public/images/home/' + imgs[i];
+		}
+	})(['works.jpg', 'ons_trailers.jpg']);
 	// slider
 	$.fn.slider = function( opts ){
 		var $c = $(this),
@@ -111,6 +110,8 @@ $(function(){
 			selector = opts.selector,
 			masks = self.find(selector),
 			speed = opts.speed || 500,
+			onEnter = opts.onEnter || $.noop,
+			onLeave = opts.onLeave || $.noop,
 			dir = direction[opts.dir] || 'bottom-to-top';
 		
 		var parent = masks.parent(),
@@ -136,23 +137,40 @@ $(function(){
 		
 		masks.css(css);
 		
-		self.on('mouseenter', trigger, function(){
-			$(this).find(selector).animate( param_enter, speed );
+		self.on('mouseenter', trigger, function(e){
+			var self = $(this);
+			onEnter.call(self, e);
+			self.find(selector).animate( param_enter, speed );
 		});
-		self.on('mouseleave', trigger, function(){
+		self.on('mouseleave', trigger, function(e){
+			var self = $(this);
+			onLeave.call(self, e);
 			$(this).find(selector).animate( param_leave, speed );
 		});
 	};
 	
+	var change_img = function(){
+		var $img = this.children().first(),
+			img = $img[0],
+			src = img.src,
+			data_src = img.getAttribute('data-src');
+		img.src = data_src;
+		img.setAttribute('data-src', src);
+	}
+	
 	$('.movie_list').eq(0).dir_move('li', {
-		selector : '.mask',
-		speed : 300
+		selector : '.bg-box',
+		speed : 300,
+		onEnter : change_img,
+		onLeave : change_img
 	});
 	
 	$('.movie_list').eq(1).dir_move('li', {
-		selector : '.mask',
+		selector : '.bg-box',
 		dir : 't_b',
-		speed : 300
+		speed : 300,
+		onEnter : change_img,
+		onLeave : change_img
 	});
 
 });
