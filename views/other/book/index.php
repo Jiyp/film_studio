@@ -235,6 +235,40 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 		</div>
 	</div>
 	
+	<div style="width:100%;background:#fff;position:relative;margin:20px;">
+		<div class="slider">
+			<h2>萌二姐漫画</h2>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_5.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=6&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_6.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=7&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_7.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=8&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_8.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=9&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_9.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=10&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_10.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=11&f=9" target="_blank" class="imgs_box"><img src="/public/images/s/9/img_11.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
+		</div>
+	</div>
+	
 	<?php include '../../common/footer.php'; ?>
 		
 </div>

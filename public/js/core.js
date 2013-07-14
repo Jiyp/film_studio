@@ -1,13 +1,13 @@
 $(function(){
 	//preload
 	(function(imgs){
-		var href = location.href;
+		var origin = location.origin;
 		var img;
 		for( var i = 0, len = imgs.length; i < len; i++ ){
 			img = new Image();
-			img.src = href + 'public/images/home/' + imgs[i];
+			img.src = '/public/images/home/' + imgs[i];
 		}
-	})(['works.jpg', 'ons_trailers.jpg']);
+	})(['works.jpg', 'ons_hx.jpg', 'aboutus.jpg', 'fcwm.jpg', 'ons_jz.jpg', 'ons_ygp.jpg']);
 	// slider
 	$.fn.slider = function( opts ){
 		var $c = $(this),
@@ -16,30 +16,28 @@ $(function(){
 			width = children.outerWidth(true),
 			len = children.length,
 			max = opts.max || 4,
-			counter = 0,
+			counter = len,
 			arrow_left = opts.arrow_left,
 			arrow_right = opts.arrow_right;
 		var $left = $c.find(arrow_left);
 		var $right = $c.find(arrow_right);
 		if( len > max ){
-			/*$c.on('mouseenter', function(){
-				$left.show();
-				$right.show();
-			});	
-			$c.on('mouseleave', function(){
-				$left.hide();
-				$right.hide();
-			});*/
-			$left.hide();
+			//复制节点,无缝滚动
+			var next = children.clone();
+			var prev = children.clone();
+			prev.prependTo($ul);
+			next.appendTo($ul);
+			var left = -len * width;
+			$ul.css('left', -len * width);
 			$left.on('click', function(){
 				counter--;
 				$ul.animate({
 					left : -(counter * width) + 'px'
 				}, 500, function(){
 					if( counter === 0 ){
-						$left.hide();
+						$ul.css('left', left);
+						counter = len;
 					}
-					$right.show();
 				});
 			});
 			$right.on('click', function(){
@@ -47,17 +45,16 @@ $(function(){
 				$ul.animate({
 					left : -(counter * width) + 'px'
 				}, 500, function(){
-					if( counter === len - max ){
-						$right.hide();
+					if( counter === len * 2 ){
+						$ul.css('left', left);
+						counter = len;
 					}
-					$left.show();
 				});
 			});
 		} else {
 			$left.hide();
 			$right.hide();
 		}
-		
 	};
 	
 	var $slider = $('.slider_inner');
@@ -150,7 +147,7 @@ $(function(){
 	};
 	
 	var change_img = function(){
-		var $img = this.children().first(),
+		var $img = this.find('img'),
 			img = $img[0],
 			src = img.src,
 			data_src = img.getAttribute('data-src');
@@ -158,19 +155,22 @@ $(function(){
 		img.setAttribute('data-src', src);
 	}
 	
-	$('.movie_list').eq(0).dir_move('li', {
+	var my_works = $('.movie_list');
+	my_works.eq(0).dir_move('li', {
 		selector : '.bg-box',
 		speed : 300,
 		onEnter : change_img,
 		onLeave : change_img
 	});
-	
-	$('.movie_list').eq(1).dir_move('li', {
+	my_works.eq(1).dir_move('li', {
 		selector : '.bg-box',
 		dir : 't_b',
 		speed : 300,
 		onEnter : change_img,
 		onLeave : change_img
+	});
+	my_works.parent().on('click', '.movie_list>li', function(){
+		location.href = $(this).attr('data-href');
 	});
 
 });

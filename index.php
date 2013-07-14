@@ -27,67 +27,61 @@
 			<div class="wrap">
 				<h2 class="title png_fix">我们的作品</h2>
 				<ul class="movie_list clearfix">
-					<li>
-						<img src="/public/images/home/work_1.jpg" />
+					<li data-href="/views/ons/trailers/">
+						<img src="/public/images/home/ons_ygp_gray.jpg" data-src="/public/images/home/ons_ygp.jpg"/>
                         <div class="bg-box">
-                          <div class="bg"></div>
+                          <div class="bg pink"></div>
                            <div class="box-content">
-                              <p>一夜惊喜预告片</p>
-                            </div>           
+                              <table><tbody><tr><td>一夜惊喜预告片</td></tr></tbody></table>
+                            </div>
                         </div>
-                        <!-- <div class="mask"><h1>一夜惊喜预告片</h1></div> -->
 					</li>
-                    <li>
-                        <img src="/public/images/home/ons_trailers_gray.jpg" data-src="/public/images/home/ons_trailers.jpg" />
+                    <li data-href="/views/ons/videos">
+                        <img src="/public/images/home/ons_hx_gray.jpg" data-src="/public/images/home/ons_hx.jpg" />
                         <div class="bg-box">
                           <div class="bg"></div>
                            <div class="box-content">
-                              <p>一夜惊喜花絮</p>
+								<table><tbody><tr><td>一夜惊喜花絮</td></tr></tbody></table>
                             </div>           
                         </div>
-                        <!-- <div class="mask"><h1>一夜惊喜花絮</h1></div> -->
                     </li>
-                    <li style="margin-right:0;">
-                        <img src="/public/images/pic_1_gray_293.png" />
+                    <li data-href="/views/ons/photos" style="margin-right:0;">
+                        <img src="/public/images/home/ons_jz_gray.jpg" data-src="/public/images/home/ons_jz.jpg" />
                         <div class="bg-box">
-                          <div class="bg"></div>
+                          <div class="bg pink"></div>
                            <div class="box-content">
-                              <p>一夜惊喜媒体资源</p>
+								<table><tbody><tr><td>一夜惊喜剧照</td></tr></tbody></table>
                             </div>           
                         </div>
-                        <!-- <div class="mask"><h1>一夜惊喜媒体资源</h1></div> -->
                     </li>
 				</ul>
                 <ul class="movie_list clearfix">
-                    <li>
-                        <img src="/public/images/pic_1_gray_293.png" />
+                    <li data-href="/views/perfect">
+                        <img src="/public/images/home/fcwm_gray.jpg" data-src="/public/images/home/fcwm.jpg" />
                         <div class="bg-box">
                           <div class="bg"></div>
                            <div class="box-content">
-                              <p>非常完美</p>
+								<table><tbody><tr><td>非常完美</td></tr></tbody></table>
                             </div>           
                         </div>
-                        <!-- <div class="mask"><h1>非常完美</h1></div> -->
                     </li>
-                    <li>
+                    <li data-href="/views/other/sailfish/">
                         <img src="/public/images/home/works_gray.jpg" data-src="/public/images/home/works.jpg" />
                         <div class="bg-box">
-                          <div class="bg"></div>
+                          <div class="bg pink"></div>
                            <div class="box-content">
-                              <p>其他作品</p>
+								<table><tbody><tr><td>其他作品</td></tr></tbody></table>
                             </div>           
                         </div>
-                        <!-- <div class="mask"<h1>其他作品</h1></div> -->
                     </li>
-                    <li style="margin-right:0;">
-                        <img src="/public/images/pic_1_gray_293.png" />
+                    <li data-href="/views/aboutus" style="margin-right:0;">
+                        <img src="/public/images/home/aboutus_gray.jpg" data-src="/public/images/home/aboutus.jpg" />
                         <div class="bg-box">
                           <div class="bg"></div>
                            <div class="box-content">
-                              <p>关于我们</p>
+								<table><tbody><tr><td>关于我们</td></tr></tbody></table>
                             </div>           
                         </div>
-                        <!-- <div class="mask"><h1>关于我们</h1></div> -->
                     </li>
                 </ul>
 			</div>

@@ -30,7 +30,7 @@
 				<li><a href="http://news.mtime.com/2010/03/22/1427796.html" target="_blank">亚洲新生代大奖揭晓 宁浩依萌房祖名入选</a></li>
 			</ul>
 		</div>
-		<div class="inner">
+		<div class="inner" style="margin-left:20px;height:308px;">
 			<h3>好莱坞合作相关报道（国内媒体）</h3>
 			<ul class="news">
 				<li><a href="http://ent.sina.com.cn/m/f/2011-12-26/12153517441.shtml" target="_blank">好莱坞《通缉令》导演邀金依萌合拍中国贺岁片</a></li>
@@ -42,6 +42,18 @@
 				<li><a href="http://ent.qq.com/a/20101129/000592.htm" target="_blank">金依萌将拍跨国恋 中国首位女导演进军好莱坞</a></li>
 				<li><a href="http://ent.cntv.cn/20110131/100247.shtml" target="_blank">金依萌获导好莱坞影片 与章子怡合作惺惺相惜</a></li>
 				<li><a href="http://ent.163.com/10/0415/13/64AL14A2000300B1.html" target="_blank">《非常完美》获好莱坞美誉 金依萌洗冤</a></li>
+			</ul>
+		</div>
+		<div class="inner">
+			<h3>Foreign Media Reports</h3>
+			<ul class="news">
+				<li><a href="http://blogs.wsj.com/scene/2011/01/28/what-hollywood-wants/" target="_blank">Wall Street Journal: What Hollywood Wants: Profile of Eva Jin</a></li>
+				<li><a href="http://variety.com/2011/film/news/jin-filmmaker-s-revenge-sets-b-o-benchmark-1118042833/" target="_blank">Variety: Jin: Filmmaker’s ‘Revenge’ sets B.O. benchmark</a></li>
+				<li><a href="http://www.cnn.com/2013/02/20/world/asia/china-lu-stout-film-cinema" target="_blank">CNN: How to make a movie in China</a></li>
+				<li><a href="http://www.deadline.com/2012/03/wme-taps-china-talent-in-eva-jin-and-fan-bingbing/" target="_blank">Deadline: WME Taps China Talent In Eva Jin And Fan Bingbing</a></li>
+				<li><a href="http://www.hollywoodreporter.com/news/chinese-director-jin-working-hollywood-62038" target="_blank">Hollywood Reporter: Chinese Director Jin Working on Hollywood Feature Script, Pilot</a></li>
+				<li><a href="http://weblogs.variety.com/on_the_air/2010/12/will-smith-sets-up-china-set-drama-at-fox.html#ixzz18aqBruKD" target="_blank">Variety: Will Smith sets up China-set drama at Fox</a></li>
+				<li><a href="http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=15625&AspxAutoDetectCookieSupport=1" target="_blank">USC Asia Pacific Arts: Sophie's Creator: an interview with director Eva Jin</a></li>
 			</ul>
 		</div>
 	</div>

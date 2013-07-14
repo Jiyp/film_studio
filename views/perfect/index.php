@@ -151,13 +151,58 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 			<h2>剧照 Making of Pictures</h2>
 			<div class="slider_inner">
 				<ul class="comm_list clearfix">
+					<li><a href="/views/large?i=1&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_1.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=2&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_2.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=3&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_5.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=6&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_6.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=7&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_7.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=8&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_8.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=9&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_9.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=10&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_10.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=11&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_11.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=12&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_12.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=13&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_13.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=14&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_14.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=15&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_15.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=16&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_16.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=17&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_17.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=18&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_18.jpg" class="img_box"></a>
+					</li>
+				</ul>
+				<div class="arrow_left png_fix"></div>
+				<div class="arrow_right png_fix"></div>
+			</div>
+		</div>
+		<div class="slider">
+			<h2>花絮 Making of Trailers</h2>
+			<div class="slider_inner">
+				<ul class="comm_list clearfix">
 					<li><a href="/views/large?i=1&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_1.jpg" class="img_box"></a>
 					</li>
-					<li><a href="/views/large?i=2&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_2.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=11&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_11.jpg" class="img_box"></a>
 					</li>
 					<li><a href="/views/large?i=3&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_3.jpg" class="img_box"></a>
 					</li>
-					<li><a href="/views/large?i=4&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_4.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=2&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_2.jpg" class="img_box"></a>
 					</li>
 					<li><a href="/views/large?i=5&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_5.jpg" class="img_box"></a>
 					</li>
@@ -167,12 +212,13 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 					</li>
 					<li><a href="/views/large?i=8&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_8.jpg" class="img_box"></a>
 					</li>
+					<!-- <li><a href="/views/large?i=4&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_4.jpg" class="img_box"></a>
+					</li>-->
 					<li><a href="/views/large?i=9&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_9.jpg" class="img_box"></a>
 					</li>
-					<li><a href="/views/large?i=10&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_10.jpg" class="img_box"></a>
-					</li>
-					<li><a href="/views/large?i=11&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_11.jpg" class="img_box"></a>
-					</li>
+					<!--<li><a href="/views/large?i=10&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_10.jpg" class="img_box"></a>
+					</li>-->
+					
 				</ul>
 				<div class="arrow_left png_fix"></div>
 				<div class="arrow_right png_fix"></div>
