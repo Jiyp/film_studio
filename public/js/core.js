@@ -7,7 +7,7 @@ $(function(){
 			img = new Image();
 			img.src = '/public/images/home/' + imgs[i];
 		}
-	})(['works.jpg', 'ons_hx.jpg', 'aboutus.jpg', 'fcwm.jpg', 'ons_jz.jpg', 'ons_ygp.jpg']);
+	})(['works.jpg', 'ons_hx.jpg', 'aboutus.jpg', 'perfect.jpg', 'ons_jz.jpg', 'ons_ygp.jpg']);
 	// slider
 	$.fn.slider = function( opts ){
 		var $c = $(this),
@@ -172,5 +172,26 @@ $(function(){
 	my_works.parent().on('click', '.movie_list>li', function(){
 		location.href = $(this).attr('data-href');
 	});
+	
+	window.jiathis_config = {};
+	(function(){
+		var set_config = function(url, title, summary){
+			jiathis_config.url = url || '';
+			jiathis_config.title = title || '';
+			jiathis_config.summary = summary || '';
+		};
+		$('.preview').on('mouseenter', '[data-rel=jia_this]', function(){
+			var index = ~~$(this).attr('data-index');
+			if( index === 1 ){
+				set_config( 'http://v.youku.com/v_show/id_XNTczMDQzNzQw.html', '《一夜惊喜》- 花絮', '范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象' );
+			} else if( index === 2 ){
+				set_config( 'http://v.youku.com/v_show/id_XNTc1MTEzMzg4.html', '《一夜惊喜》- 花絮', '“性感篇”制作特辑 李治廷称导演是最性感的人' );
+			} else if( index === 3 ){
+				set_config('http://v.youku.com/v_show/id_XNTc4OTk0Nzc2.html', '《一夜惊喜》-花絮','《一夜惊喜》导演金依萌特辑');
+			} else if( index === 4 ){
+				set_config('http://v.youku.com/v_show/id_XNTgxOTk4OTQ0.html', '《一夜惊喜》-花絮', '《一夜惊喜》天王驾到特辑 黎明猛追范爷惊喜十足');
+			};
+		});
+	})();
 
 });

@@ -11,7 +11,7 @@
 </head>
 <body>
 <div id="main">
-	<?php include '../../common/header.php'; ?>
+	<?php include '../common/header.php'; ?>
 
 	<div class="news_wrap clearfix">
 		<div class="inner">
@@ -22,15 +22,6 @@
 				<li><a href="http://news.mtime.com/2010/01/27/1424169.html" target="_blank">“非常爱情狂”网络剧将拍</a></li>
 				<li><a href="http://comic.zongheng.com/news/763.html" target="_blank">《非常完美》导演金依萌与漫画再续前缘</a></li>
 			</ul>
-			<h3>个人活动相关报道（国内媒体）</h3>
-			<ul class="news">
-				<li><a href="http://fashion.ifeng.com/news/detail_2010_05/05/1487915_0.shtml" target="_blank">金依萌获2009年最时髦新锐导演奖</a></li>
-				<li><a href="http://yule.sohu.com/20091229/n269280191.shtml" target="_blank">新锐女导演金依萌受封电影文化国际推广大使</a></li>
-				<li><a href="http://ent.sina.com.cn/m/c/2009-11-24/11512783002.shtml" target="_blank">《非常完美》导演金依萌引领电影界时尚潮流</a></li>
-				<li><a href="http://news.mtime.com/2010/03/22/1427796.html" target="_blank">亚洲新生代大奖揭晓 宁浩依萌房祖名入选</a></li>
-			</ul>
-		</div>
-		<div class="inner" style="margin-left:20px;height:308px;">
 			<h3>好莱坞合作相关报道（国内媒体）</h3>
 			<ul class="news">
 				<li><a href="http://ent.sina.com.cn/m/f/2011-12-26/12153517441.shtml" target="_blank">好莱坞《通缉令》导演邀金依萌合拍中国贺岁片</a></li>
@@ -44,7 +35,15 @@
 				<li><a href="http://ent.163.com/10/0415/13/64AL14A2000300B1.html" target="_blank">《非常完美》获好莱坞美誉 金依萌洗冤</a></li>
 			</ul>
 		</div>
+		<div style="width:15px;height:308px;float:left;"></div>
 		<div class="inner">
+			<h3>个人活动相关报道（国内媒体）</h3>
+			<ul class="news">
+				<li><a href="http://fashion.ifeng.com/news/detail_2010_05/05/1487915_0.shtml" target="_blank">金依萌获2009年最时髦新锐导演奖</a></li>
+				<li><a href="http://yule.sohu.com/20091229/n269280191.shtml" target="_blank">新锐女导演金依萌受封电影文化国际推广大使</a></li>
+				<li><a href="http://ent.sina.com.cn/m/c/2009-11-24/11512783002.shtml" target="_blank">《非常完美》导演金依萌引领电影界时尚潮流</a></li>
+				<li><a href="http://news.mtime.com/2010/03/22/1427796.html" target="_blank">亚洲新生代大奖揭晓 宁浩依萌房祖名入选</a></li>
+			</ul>
 			<h3>Foreign Media Reports</h3>
 			<ul class="news">
 				<li><a href="http://blogs.wsj.com/scene/2011/01/28/what-hollywood-wants/" target="_blank">Wall Street Journal: What Hollywood Wants: Profile of Eva Jin</a></li>
@@ -58,7 +57,7 @@
 		</div>
 	</div>
 
-	<?php include '../../common/footer.php'; ?>
+	<?php include '../common/footer.php'; ?>
 		
 </div>
 </body>

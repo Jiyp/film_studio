@@ -30,57 +30,39 @@
 					<li data-href="/views/ons/trailers/">
 						<img src="/public/images/home/ons_ygp_gray.jpg" data-src="/public/images/home/ons_ygp.jpg"/>
                         <div class="bg-box">
-                          <div class="bg pink"></div>
-                           <div class="box-content">
-                              <table><tbody><tr><td>一夜惊喜预告片</td></tr></tbody></table>
-                            </div>
+                          <img src="/public/images/home/1.png" />
                         </div>
 					</li>
                     <li data-href="/views/ons/videos">
                         <img src="/public/images/home/ons_hx_gray.jpg" data-src="/public/images/home/ons_hx.jpg" />
                         <div class="bg-box">
-                          <div class="bg"></div>
-                           <div class="box-content">
-								<table><tbody><tr><td>一夜惊喜花絮</td></tr></tbody></table>
-                            </div>           
+                          <img src="/public/images/home/2.png" />
                         </div>
                     </li>
                     <li data-href="/views/ons/photos" style="margin-right:0;">
                         <img src="/public/images/home/ons_jz_gray.jpg" data-src="/public/images/home/ons_jz.jpg" />
                         <div class="bg-box">
-                          <div class="bg pink"></div>
-                           <div class="box-content">
-								<table><tbody><tr><td>一夜惊喜剧照</td></tr></tbody></table>
-                            </div>           
-                        </div>
+                          <img src="/public/images/home/3.png" />
+						</div>
                     </li>
 				</ul>
                 <ul class="movie_list clearfix">
                     <li data-href="/views/perfect">
-                        <img src="/public/images/home/fcwm_gray.jpg" data-src="/public/images/home/fcwm.jpg" />
+                        <img src="/public/images/home/perfect_gray.jpg" data-src="/public/images/home/perfect.jpg" />
                         <div class="bg-box">
-                          <div class="bg"></div>
-                           <div class="box-content">
-								<table><tbody><tr><td>非常完美</td></tr></tbody></table>
-                            </div>           
+                          <img src="/public/images/home/4.png" />      
                         </div>
                     </li>
                     <li data-href="/views/other/sailfish/">
                         <img src="/public/images/home/works_gray.jpg" data-src="/public/images/home/works.jpg" />
                         <div class="bg-box">
-                          <div class="bg pink"></div>
-                           <div class="box-content">
-								<table><tbody><tr><td>其他作品</td></tr></tbody></table>
-                            </div>           
+							<img src="/public/images/home/5.png" />         
                         </div>
                     </li>
                     <li data-href="/views/aboutus" style="margin-right:0;">
                         <img src="/public/images/home/aboutus_gray.jpg" data-src="/public/images/home/aboutus.jpg" />
                         <div class="bg-box">
-                          <div class="bg"></div>
-                           <div class="box-content">
-								<table><tbody><tr><td>关于我们</td></tr></tbody></table>
-                            </div>           
+							<img src="/public/images/home/6.png" />         
                         </div>
                     </li>
                 </ul>
@@ -107,6 +89,90 @@
 				<!-- JiaThis Button END -->
 			</div>
 		</div>
+		
+	<div class="preview bg">
+		<h2 class="title">花絮</h2>
+		<div style="width:930px;margin: 0 auto;padding:32px 0 ;position:relative;">
+			<ul class="trailer_wrap clearfix">
+				<li class="trailer">
+					<div data-rel="jia_this"  data-index="3">
+						<h2 class="header">《一夜惊喜》- 花絮1</h2>
+						<p class="intro">《一夜惊喜》导演金依萌特辑</p>
+						<iframe height=360 width=450 frameborder=0 src="http://player.youku.com/embed/XNTc4OTk0Nzc2" allowfullscreen></iframe>
+						<div style="position:absolute;right:0;top:56px;">
+							<div class="jiathis_style">
+								<a class="jiathis_button_qzone"></a>
+								<a class="jiathis_button_tsina"></a>
+								<a class="jiathis_button_tqq"></a>
+								<a class="jiathis_button_weixin"></a>
+								<a class="jiathis_button_renren"></a>
+								<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+								<a class="jiathis_counter_style"></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="trailer" style="margin-left:30px;">
+					<div data-rel="jia_this"  data-index="4">
+						<h2 class="header">《一夜惊喜》- 花絮2</h2>
+						<p class="intro">《一夜惊喜》天王驾到特辑 黎明猛追范爷惊喜十足</p>
+						<iframe height=360 width=450 frameborder=0 src="http://player.youku.com/embed/XNTgxOTk4OTQ0" allowfullscreen></iframe>
+						<div style="position:absolute;right:0;top:56px;">
+							<div class="jiathis_style">
+								<a class="jiathis_button_qzone"></a>
+								<a class="jiathis_button_tsina"></a>
+								<a class="jiathis_button_tqq"></a>
+								<a class="jiathis_button_weixin"></a>
+								<a class="jiathis_button_renren"></a>
+								<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+								<a class="jiathis_counter_style"></a>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		
+			<ul class="trailer_wrap clearfix">
+				<li class="trailer">
+					<div data-rel="jia_this" data-index="1">
+						<h2 class="header">《一夜惊喜》- 花絮3</h2>
+						<p class="intro">范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象</p>
+						<iframe height=360 width=450 frameborder=0 src="http://player.youku.com/embed/XNTczMDQzNzQw" allowfullscreen></iframe>
+						<div style="position:absolute;right:0;top:56px;">
+							<div class="jiathis_style">
+								<a class="jiathis_button_qzone"></a>
+								<a class="jiathis_button_tsina"></a>
+								<a class="jiathis_button_tqq"></a>
+								<a class="jiathis_button_weixin"></a>
+								<a class="jiathis_button_renren"></a>
+								<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+								<a class="jiathis_counter_style"></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="trailer" style="margin-left:30px;">
+					<div data-rel="jia_this"  data-index="2">
+					<h2 class="header">《一夜惊喜》- 花絮4</h2>
+					<p class="intro">“性感篇”制作特辑 李治廷称导演是最性感的人</p>
+					<iframe height=360 width=450 frameborder=0 src="http://player.youku.com/embed/XNTc1MTEzMzg4" allowfullscreen></iframe>
+					<div style="position:absolute;right:0;top:56px;">
+						<div class="jiathis_style">
+							<a class="jiathis_button_qzone"></a>
+							<a class="jiathis_button_tsina"></a>
+							<a class="jiathis_button_tqq"></a>
+							<a class="jiathis_button_weixin"></a>
+							<a class="jiathis_button_renren"></a>
+							<a href="http://www.jiathis.com/share?uid=1371836207634603" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+							<a class="jiathis_counter_style"></a>
+						</div>
+					</div>
+					</div>
+				</li>
+			</ul>
+
+		</div>
+	</div>
 		
 		<div class="weibo">
 			<h2 class="title png_fix">微博动态</h2>

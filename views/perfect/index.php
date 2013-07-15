@@ -132,7 +132,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	</div>
 	
 	<div class="slider">
-		<h2>花絮 Behind the Scenes Videos</h2>
+		<h2>花絮 Making Of</h2>
 		<ul class="video_list clearfix">
 			<li><embed src="http://www.tudou.com/o/HuPV1J7WZvI/&resourceId=0_05_05_99&iid=130462140&bid=05/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="410" height="290"></embed></li>
 			<li class="last"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
@@ -148,7 +148,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	
 	<div class="F_wrap" style="margin-bottom:40px;">
 		<div class="slider">
-			<h2>剧照 Making of Pictures</h2>
+			<h2>剧照 Photos</h2>
 			<div class="slider_inner">
 				<ul class="comm_list clearfix">
 					<li><a href="/views/large?i=1&f=10" target="_blank" class="imgs_box"><img src="/public/images/s/10/img_1.jpg" class="img_box"></a>

@@ -23,7 +23,7 @@
 	z-index: 101;
 	text-align: center;
 	color: #fff;
-	border-radius:5px;
+	/*border-radius:5px;*/
 }
 .poster .comm_list{
 	height:141px;
@@ -65,4 +65,14 @@
 	margin-top:40px;
 	border-top:1px solid #ccc;
 	height : 1px;
+}
+.trailer_wrap .trailer{
+	float:left;
+	width : 450px;
+	_display:inline;
+	position:relative;
+}
+.bg{
+	background: url(../../images/bg02.png) repeat;
+	border-top: 1px solid #ccc
 }

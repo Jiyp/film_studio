@@ -3,17 +3,20 @@
 $uri = $_SERVER['REQUEST_URI'];
 $sub_current = ' style="color:#3399cc;"';
 $nav_current = ' class="current"';
-$navs = array(0 => '/', 1 => '/views/perfect/', 2 => '/views/other/', 3 => '/views/aboutus/');
+$navs = array(0 => '/', 1 => '/views/perfect/', 2 => '/views/other/', 3 => '/views/aboutus/', 4 => '/views/news/');
 $key = array_search($uri, $navs);
-$ons = array('/views/ons/trailers/','/views/ons/videos/','/views/ons/photos/');
+$ons = array('/views/ons/videos/','/views/ons/photos/');
 $other = array('/views/other/sailfish/','/views/other/17th/','/views/other/book/');
-$about_us = array('/views/aboutus/','/views/aboutus/contactus/','/views/aboutus/news/');
+$about_us = array('/views/aboutus/','/views/aboutus/contactus/');
+$news = array('/views/aboutus/news/');
 if( in_array($uri, $ons) ){
 	$key = 0;
 } else if( in_array($uri, $other) ){
 	$key = 2;
 } else if( in_array($uri, $about_us) ){
 	$key = 3;
+} else if( in_array($uri, $news) ){
+	$key = 4;
 }
 ?>
 <div class="m_nav_home png_fix">
@@ -22,9 +25,10 @@ if( in_array($uri, $ons) ){
 		<ul class="nav">
 			<li <?php if($key == 0){echo $nav_current;}; ?>><a href="/views/ons/trailers/" class="link"><span class="valign">一夜惊喜</span><p>One Night Surprise</p></a>
 			<div class="sub_nav" <?php if($key > 0){echo ' style="display:none;"';}; ?>>
-				<a href="/views/ons/trailers/" <?php if($uri == "/views/ons/trailers/"){echo $sub_current;}; ?> ><p>预告片</p><span>Trailers</span></a>
-				<a href="/views/ons/videos" <?php if($uri == "/views/ons/videos/"){echo $sub_current;}; ?>><p>花絮</p><span>BTS Videos</span></a>
-				<a href="/views/ons/photos" <?php if($uri == "/views/ons/photos/"){echo $sub_current;}; ?>><p>剧照</p><span>BTS Photos</span></a>
+				<a href="/views/ons/photos" <?php if($uri == "/views/ons/photos/"){echo $sub_current;}; ?>><p>剧照</p><span>Photos</span></a>
+				<a href="/views/ons/videos/" <?php if($uri == "/views/ons/videos/"){echo $sub_current;}; ?> ><p>视频</p><span>Videos</span></a>
+				<!--<a href="/views/ons/trailers/" <?php if($uri == "/views/ons/trailers/"){echo $sub_current;}; ?> ><p>预告片</p><span>Trailers</span></a>
+				<a href="/views/ons/videos" <?php if($uri == "/views/ons/videos/"){echo $sub_current;}; ?>><p>花絮</p><span>Videos</span></a>-->
 			</div>
 			</li>
 			<li <?php if($key == 1){echo $nav_current;}; ?>><a href="/views/perfect" class="link"><span class="valign">非常完美</span><p>Sophie's Revenge</p></a></li>
@@ -36,11 +40,13 @@ if( in_array($uri, $ons) ){
 			</div>
 			</li>
 			<li <?php if($key == 3){echo $nav_current;}; ?>><a href="/views/aboutus"  class="link"><span class="valign">关于我们</span><p>About Us</p></a>
-			<div class="sub_nav" style="width:115px;right:-10px;<?php if($key != 3){echo 'display:none;';}; ?>">
-				<a href="/views/aboutus/news/" <?php if($uri == "/views/aboutus/news/"){echo $sub_current;}; ?> ><p>新闻</p><span>News</span></a>
+			<div class="sub_nav" style="width:68px;left:0px;<?php if($key != 3){echo 'display:none;';}; ?>">
+				<!--<a href="/views/aboutus/news/" <?php if($uri == "/views/aboutus/news/"){echo $sub_current;}; ?> ><p>新闻</p><span>News</span></a>-->
 				<a href="/views/aboutus/contactus/" <?php if($uri == "/views/aboutus/contactus/"){echo $sub_current;}; ?>><p>联系我们</p><span>Contact Us</span></a>
 				<!--<a href="/views/aboutus/" <?php if($uri == "/views/aboutus/"){echo $sub_current;}; ?>><p>关于我们</p><span>About Us</span></a>-->
 			</div>
+			</li>
+			<li <?php if($key == 4){echo $nav_current;}; ?>><a href="/views/news"  class="link"><span class="valign">新闻</span><p>News</p></a>
 			</li>
 		</ul>
 	</div>

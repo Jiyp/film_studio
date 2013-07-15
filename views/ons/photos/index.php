@@ -30,11 +30,11 @@
 							</tr>
 							<tr>
 								<td class="item">主演  Main Actors：</td>
-								<td class="content">范冰冰  FanBingbing, 李致岩  Aarif Rahman, 丹尼尔.海尼  Daniel Henney, 吴佩慈  Pace Wu, 蒋劲夫  Jinfu Jiang</td>
+								<td class="content">范冰冰  Fan Bingbing, 李治延  Aarif Rahman, 丹尼尔.海尼  Daniel Henney, 吴佩慈  Pace Wu, 蒋劲夫  Jinfu Jiang</td>
 							</tr>
 							<tr>
 								<td class="item">类型  Genre：</td>
-								<td class="content">爱情，浪漫，喜欢  Romantic Comedy</td>
+								<td class="content">爱情, 浪漫 Romantic Comedy</td>
 							</tr>
 							<tr>
 								<td class="item">上映日期  Release：</td>
@@ -50,7 +50,7 @@
 							</tr>
 							<tr>
 								<td class="item">制片  Producers：</td>
-								<td class="content">环亚  Media Asia，华夏视听  Cathay Audiovisual, 萌影画  Draw & Shoot</td>
+								<td class="content">寰亚  Media Asia, 华夏视听  Cathay Audiovisual, 萌影画  Draw & Shoot</td>
 							</tr>
 							<tr>
 								<td colspan="2"><a href="http://movie.mtime.com/182126/" target="_blank">更多信息</a><!-- / <a href="请提供IMDB的链接地址" target="_blank">More Info</a>--></td>
