@@ -17,8 +17,11 @@
 			<div class="bg"><img src="/public/images/quotation_bg.png" style="width:100%;height:404px;" /></div>
 			<div class="content">
 				<!-- <h1 class="png_fix">logo</h1>-->
-				<p style="margin-top:50px;">Hi,欢迎来到萌影画工作室。我们是热爱电影的爱好者。这里有几个我们的作品，</p>
-				<p>希望您喜欢。有什么感受希望您跟我们联系咯哈 :-)</p>
+				<p style="margin-top:40px;">
+			用胶片记录过往 用镜头捕捉人生 </p>
+			<p>我们不仅是故事的缔造者 我们更是生活的亲历人</p>
+			<p>我们用国际视角演绎中国故事 我们让中国电影吸引世界目光 </p>
+			<p>在这里我们用快乐讲电影</p>
 				<p>-- 金依萌导演 --</p>
 			</div>
 		</div>
@@ -27,20 +30,20 @@
 			<div class="wrap">
 				<h2 class="title png_fix">我们的作品</h2>
 				<ul class="movie_list clearfix">
-					<li data-href="/views/ons/trailers/">
-						<img src="/public/images/home/ons_ygp_gray.jpg" data-src="/public/images/home/ons_ygp.jpg"/>
+					<li data-href="/views/ons/videos/">
+						<img width="293" height="221" src="/public/images/home/ons_ygp_gray.jpg" data-src="/public/images/home/ons_ygp.jpg"/>
                         <div class="bg-box">
                           <img src="/public/images/home/1.png" />
                         </div>
 					</li>
                     <li data-href="/views/ons/videos">
-                        <img src="/public/images/home/ons_hx_gray.jpg" data-src="/public/images/home/ons_hx.jpg" />
+                        <img width="293" height="221" src="/public/images/home/ons_hx_gray.jpg" data-src="/public/images/home/ons_hx.jpg" />
                         <div class="bg-box">
                           <img src="/public/images/home/2.png" />
                         </div>
                     </li>
                     <li data-href="/views/ons/photos" style="margin-right:0;">
-                        <img src="/public/images/home/ons_jz_gray.jpg" data-src="/public/images/home/ons_jz.jpg" />
+                        <img width="293" height="221" src="/public/images/home/ons_jz_gray.jpg" data-src="/public/images/home/ons_jz.jpg" />
                         <div class="bg-box">
                           <img src="/public/images/home/3.png" />
 						</div>
@@ -48,19 +51,19 @@
 				</ul>
                 <ul class="movie_list clearfix">
                     <li data-href="/views/perfect">
-                        <img src="/public/images/home/perfect_gray.jpg" data-src="/public/images/home/perfect.jpg" />
+                        <img width="293" height="221" src="/public/images/home/perfect_gray.jpg" data-src="/public/images/home/perfect.jpg" />
                         <div class="bg-box">
                           <img src="/public/images/home/4.png" />      
                         </div>
                     </li>
                     <li data-href="/views/other/sailfish/">
-                        <img src="/public/images/home/works_gray.jpg" data-src="/public/images/home/works.jpg" />
+                        <img width="293" height="221" src="/public/images/home/works_gray.jpg" data-src="/public/images/home/works.jpg" />
                         <div class="bg-box">
 							<img src="/public/images/home/5.png" />         
                         </div>
                     </li>
                     <li data-href="/views/aboutus" style="margin-right:0;">
-                        <img src="/public/images/home/aboutus_gray.jpg" data-src="/public/images/home/aboutus.jpg" />
+                        <img width="293" height="221" src="/public/images/home/aboutus_gray.jpg" data-src="/public/images/home/aboutus.jpg" />
                         <div class="bg-box">
 							<img src="/public/images/home/6.png" />         
                         </div>

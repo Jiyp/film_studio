@@ -7,7 +7,9 @@
 	<meta name="author" content="金依萌">
 	<link rel="icon" type="image/ico" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/common.css" />
-	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/contactus.css"  />
+	<style>
+	.map{width:100%;background:url(/public/images/bg02.png) repeat #f7f7f7;position:relative}.map .wrap{width:878px;margin:0 auto;padding:50px 0}.map .wrap .geo{width:502px;float:left}.map .wrap .info{float:left;width:346px;margin-left:30px}.map .name{height:30px;vertical-align:middle;font-size:18px;font-weight:bold}.map .item{color:#666;width:50px;height:26px;text-align:left;vertical-align:middle}.map .detail{font-size:14px;font-weight:bold}
+	</style>
 	<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
 </head>
 <body>
@@ -16,7 +18,6 @@
 	
 	<div class="map">
 		<div class="wrap clearfix">
-			<!-- <img src="/public/images/map/my_map3.jpg" style="margin-left:50px;" />-->
 			<div class="geo">
 			<!--百度地图容器-->
   <div style="width:500px;height:450px;border:#ccc solid 1px;" id="dituContent"></div>

@@ -7,7 +7,15 @@
 	<meta name="author" content="金依萌">
 	<link rel="icon" type="image/ico" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/common.css" />
-	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/news.css"  />
+	<style>
+	.news_wrap{width:850px;margin:0 auto;padding:20px;border-top:1px solid #ccc;font-size:14px;}
+	.news_wrap .inner{width:415px;float:left;}
+	.news_wrap h3{font-size:14px;height:30px;line-height:30px;background:#39c;color:#fff;padding-left:1em;}
+	.news_wrap .news{width:415px;margin:10px 0;}
+	.news_wrap .news li{height:26px;line-height:26px;overflow:hidden;padding-left:12px;background:url(../../public/images/dot.gif) no-repeat left;}
+	.news_wrap .news li a{color:#000;}
+	.news_wrap .news li a:hover{color:#3399cc;}
+	</style>
 </head>
 <body>
 <div id="main">

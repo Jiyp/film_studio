@@ -15,9 +15,7 @@
 
 	<div style="width:850px;margin:0 auto;padding:20px;border-top:1px solid #ccc;">
 		<h1 style="color:#666666;text-align:center;font-size:20px;">关于我们 About Us</h1>
-		<div style="text-align:center;font-weight:bold;">
-我们萌影画工作室由中国著名女导演金依萌创办的，乐于参加中国电影行业飞速发展，希望为广大观众提供非凡有趣的原创内容.
-		</div>
+		<div style="text-align:left;font-size:14px;text-indent:2em;">在这里我们用快乐讲电影，在这里我们以天马行空的想象做帆， 用时尚前卫的设计做浆，在这里没有男人们的声嘶力竭， 只有女人们的温柔细腻，没有好莱坞的排场，却有国际化标准， 在这里我们听女人讲故事，在这里我们用国际化的角度讲中国故事！</div>
 	</div>
 	
 	<div class="my_works png_fix">
