@@ -64,6 +64,8 @@
 	<div class="preview">
 		<h2 class="title png_fix">预告片</h2>
 		<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;_padding-top:50px;">
+			<div style="margin-bottom:20px;">
+			<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTg0Nzg2Njgw" allowfullscreen></iframe></div>
 			<embed src="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf" allowFullScreen="true" quality="high" width="930" height="498" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 			<!-- JiaThis Button BEGIN -->
 			<div style="float:right;padding-top:24px;_width:284px;">

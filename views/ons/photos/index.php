@@ -225,21 +225,25 @@
 			</div>
 		</div>
 		
-		<!-- <div class="slider">
+		<div class="slider">
 			<h2>黎明 Leon Lai Ming</h2>
 			<div class="slider_inner">
 				<ul class="comm_list clearfix">
-					<li><a href="/views/large?i=1&f=2" target="_blank" class="imgs_box"><img src="/public/images/s/2/img_1.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=1&f=11" target="_blank" class="imgs_box"><img src="/public/images/s/11/img_1.jpg" class="img_box"></a>
 					</li>
-					<li><a href="/views/large?i=2&f=2" target="_blank" class="imgs_box"><img src="/public/images/s/2/img_2.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=2&f=11" target="_blank" class="imgs_box"><img src="/public/images/s/11/img_2.jpg" class="img_box"></a>
 					</li>
-					<li><a href="/views/large?i=3&f=2" target="_blank" class="imgs_box"><img src="/public/images/s/2/img_3.jpg" class="img_box"></a>
+					<li><a href="/views/large?i=3&f=11" target="_blank" class="imgs_box"><img src="/public/images/s/11/img_3.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=4&f=11" target="_blank" class="imgs_box"><img src="/public/images/s/11/img_4.jpg" class="img_box"></a>
+					</li>
+					<li><a href="/views/large?i=5&f=11" target="_blank" class="imgs_box"><img src="/public/images/s/11/img_5.jpg" class="img_box"></a>
 					</li>
 				</ul>
 				<div class="arrow_left png_fix"></div>
 				<div class="arrow_right png_fix"></div>
 			</div>
-		</div>-->
+		</div>
 		
 	</div>
 	

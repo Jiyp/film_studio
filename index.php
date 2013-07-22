@@ -75,6 +75,25 @@
 		<div class="preview">
 			<h2 class="title png_fix">预告片</h2>
 			<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;_padding-top:50px;">
+				<div style="margin-bottom:20px;">
+				<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTg0Nzg2Njgw" allowfullscreen></iframe></div>
+				<!--<div class="trailer_wrap">
+					<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTg0Nzg2Njgw" allowfullscreen></iframe>
+					<div class="info_bar">
+						<h2>《一夜惊喜》“高潮版”预告片 范冰冰突破诱惑为爱大冒险</h2>
+						<div class="jia_this_bar">
+							<div class="jiathis_style_32x32" style="height:32px;">
+								<a class="jiathis_button_qzone"></a>
+								<a class="jiathis_button_tsina"></a>
+								<a class="jiathis_button_tqq"></a>
+								<a class="jiathis_button_weixin"></a>
+								<a class="jiathis_button_renren"></a>
+								<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+								<a class="jiathis_counter_style"></a>
+							</div>
+						</div>
+					</div>
+				</div>-->
 				<embed src="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf" allowFullScreen="true" quality="high" width="930" height="498" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 				<!-- JiaThis Button BEGIN -->
 				<div style="float:right;padding-top:24px;_width:284px;">
@@ -88,7 +107,6 @@
 					<a class="jiathis_counter_style"></a>
 				</div>
 				</div>
-				<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
 				<!-- JiaThis Button END -->
 			</div>
 		</div>
@@ -187,5 +205,6 @@
 		
 		<?php include './views/common/footer.php'; ?>
 </div>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
 </body>
 </html>
