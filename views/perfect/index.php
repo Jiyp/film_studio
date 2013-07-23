@@ -71,7 +71,7 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 							</tr>
 							<tr>
 								<td class="item">制片  Producers：</td>
-								<td class="content">完美世界  Perfect World，CJE  CJEntertainment, 金依萌  Eva Jin</td>
+								<td class="content">完美世界  Perfect World，tCJE CJEntertainment，金依萌  Eva Jin</td>
 							</tr>
 							<tr>
 								<td colspan="2"><a href="http://movie.mtime.com/91347/" target="_blank">更多信息</a>  <a href="http://www.imdb.com/title/tt1303833/" target="_blank">More Info</a></td>
@@ -85,64 +85,26 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 	
 	<div class="slider">
 		<h2>预告片 Trailers</h2>
-		<ul class="video_list clearfix">
-			<li>
-				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
-				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
-				<param name="quality" value="high">
-				<param name="allowFullScreen" value="true">
-				<param name="menu" value="false">
-				<param name="wmode" value="transparent">
-				<param name="allowScriptAccess" value="always">
-				<embed wmode="transparent" allowscriptaccess="always" allowfullscreen="true" play="true" src="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></object>
-			</li>
-			<li class="last">
-			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
-				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
-				<param name="quality" value="high">
-				<param name="allowFullScreen" value="true">
-				<param name="menu" value="false">
-				<param name="wmode" value="transparent">
-				<param name="allowScriptAccess" value="always">
-				<embed wmode="transparent" allowscriptaccess="always" allowfullscreen="true" play="true" src="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></object>
-			</li>
-		</ul>
+        <div><iframe height=498 width=840 src="http://player.youku.com/embed/XNTg0MjYzODUy" frameborder=0 allowfullscreen></iframe></div>
 	</div>
 		
 	<div class="slider">
 		<h2>媒体报道 Media Reports</h2>
 		<ul class="video_list clearfix">
-			<li><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
-				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
-				<param name="quality" value="high">
-				<param name="allowFullScreen" value="true">
-				<param name="menu" value="false">
-				<param name="wmode" value="transparent">
-				<param name="allowScriptAccess" value="always">
-				<embed wmode="transparent" allowscriptaccess="always" allowfullscreen="true" play="true" src="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></object></li>
-			<li class="last"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
-				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
-				<param name="quality" value="high">
-				<param name="allowFullScreen" value="true">
-				<param name="menu" value="false">
-				<param name="wmode" value="transparent">
-				<param name="allowScriptAccess" value="always">
-				<embed wmode="transparent" allowscriptaccess="always" allowfullscreen="true" play="true" src="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></object></li>
+            <li><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="400" height="325"><param name="movie" value="http://v.ifeng.com/include/exterior.swf?guid=9ab0fd09-2a3b-467d-98e1-013c0de22d1e&pageurl=http://www.ifeng.com&fromweb=other&AutoPlay=false" /><param name="quality" value="high" /><param name="allowScriptAccess" value="always" /><embed src="http://v.ifeng.com/include/exterior.swf?guid=9ab0fd09-2a3b-467d-98e1-013c0de22d1e&pageurl=http://www.ifeng.com&fromweb=other&AutoPlay=false" quality="high"  allowScriptAccess="always" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></embed></object><p class="info">《非常完美》票房冲亿 导演金依萌喜极而泣</p></li>
+            <li class="last"><object id="ssss" width="410" height="290" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=23530864_1290055681_O0yxSnRrDDLK+l1lHz2stqlF+6xCpv2xhGu2slKkIAtfXQ2YJMXNb98E5SrWCMlG5yoUEJU9dvsl1xUrbA/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="410" height="290"></embed></object><p class="info">首映式现场采访金依萌、林心如、姚晨</p></li>
+		</ul>
+		<ul class="video_list clearfix">
+            <li><iframe height=290 width=410 src="http://player.youku.com/embed/XMTE1MjI4OTI0" frameborder=0 allowfullscreen></iframe><p class="info">《非常完美》导演依萌坐客优酷：我“骗了”章子怡</p></li>
+            <li class="last"><object id="ssss" width="410" height="290" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=43185815_1368802574_bRjmSnM7Bm/K+l1lHz2stqlF+6xCpv2xhGu3vVqsJQxcUgiYJMXNb9kE4SHTCM5H5yoUEJU7dv8u0hUsbQ/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="410" height="290"></embed></object><p class="info">《说天下》非常完美导演金依萌进军好莱坞</p></li>
 		</ul>
 	</div>
 	
 	<div class="slider">
 		<h2>花絮 Making Of</h2>
 		<ul class="video_list clearfix">
-			<li><embed src="http://www.tudou.com/o/HuPV1J7WZvI/&resourceId=0_05_05_99&iid=130462140&bid=05/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="410" height="290"></embed></li>
-			<li class="last"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="410" height="290" autoactive="true">
-				<param name="movie" value="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html">
-				<param name="quality" value="high">
-				<param name="allowFullScreen" value="true">
-				<param name="menu" value="false">
-				<param name="wmode" value="transparent">
-				<param name="allowScriptAccess" value="always">
-				<embed wmode="transparent" allowscriptaccess="always" allowfullscreen="true" play="true" src="http://static1.mtime.cn/20130608151702/flash/newvideoplayer.swf?vid=19251&amp;mid=91347&amp;title=%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%20%E5%85%88%E8%A1%8C%E7%89%88%E9%A2%84%E5%91%8A%E7%89%87&amp;refurl=http://movie.mtime.com/91347/trailer/19251.html" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="410" height="290"></object></li>
+            <li><iframe height=290 width=410 src="http://player.youku.com/embed/XNTg0Mjc1OTQ0" frameborder=0 allowfullscreen></iframe></li>
+            <li class="last"><iframe height=290 width=410 src="http://player.youku.com/embed/XNTg0MjY1NDg4" frameborder=0 allowfullscreen></iframe></li>
 		</ul>
 	</div>
 	
@@ -212,13 +174,8 @@ Set against the social turmoil of China's Cultural Revolution, 12 years old Yue 
 					</li>
 					<li><a href="/views/large?i=8&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_8.jpg" class="img_box"></a>
 					</li>
-					<!-- <li><a href="/views/large?i=4&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_4.jpg" class="img_box"></a>
-					</li>-->
 					<li><a href="/views/large?i=9&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_9.jpg" class="img_box"></a>
 					</li>
-					<!--<li><a href="/views/large?i=10&f=6" target="_blank" class="imgs_box"><img src="/public/images/s/6/img_10.jpg" class="img_box"></a>
-					</li>-->
-					
 				</ul>
 				<div class="arrow_left png_fix"></div>
 				<div class="arrow_right png_fix"></div>

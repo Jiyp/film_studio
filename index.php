@@ -2,11 +2,11 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
-	<title>萌影画</title>
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
     <meta name="keywords" content="萌影画,工作室,电影,一夜惊喜,非常完美,花絮,剧照,预告片" >
 	<meta name="author" content="金依萌">
-	<link rel="icon" type="image/ico" href="favicon.ico">
+	<title>萌影画</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="stylesheet" type="text/css" href="/public/css/pages/common.css" />
 	<link rel="stylesheet" type="text/css" href="/public/css/pages/home.css"  />
 </head>

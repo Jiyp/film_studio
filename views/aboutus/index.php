@@ -44,7 +44,7 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 			</table>
 			<div class="awards">
 				<!--<h2>获奖情况</h2>-->
-				<img src="http://hmu078207.chinaw3.com/public/images/about_us_awards.png" style="float: right;margin:10px -15px 0 0;">
+				<img src="/public/images/about_us_awards.png" style="float: right;margin:10px -15px 0 0;">
 				<h3>《非常完美》</h3>
 				<ul>
 					<li>2010年获得《好莱坞报道》“亚洲新生代”大奖</li>
@@ -56,7 +56,7 @@ RMB at the box office, and the first of a new generation of Chinese filmmakers m
 					<li>2009年 罗马尼亚电影周受封“电影文化国际推广大使”</li>
 				</ul>
 				<h3>短电影《第十七个男人》《晚餐》</h3>
-				<img src="http://hmu078207.chinaw3.com/public/images/au_awards_2.png" style="float:right;margin:10px -15px 0 0;">
+				<img src="/public/images/au_awards_2.png" style="float:right;margin:10px -15px 0 0;">
 				<ul>
 					<li>获2004美国电视协会的大学生艾美奖　Emmy College Award</li>
 					<li>2004  洛杉矶，首届爱克神与卡特国际短电影比赛，第一名　Action/Cut</li>

@@ -40,7 +40,7 @@ if( in_array($uri, $ons) ){
 			<li <?php if($key == 4){echo $nav_current;}; ?>><a href="/views/news/"  class="link"><span class="valign">新闻</span><p>News</p></a>
 			</li>
 			<li <?php if($key == 3){echo $nav_current;}; ?>><a href="/views/aboutus/"  class="link"><span class="valign">关于我们</span><p>About Us</p></a>
-			<div class="sub_nav" style="width:68px;left:0px;<?php if($key != 3){echo 'display:none;';}; ?>">
+			<div class="sub_nav" style="left:0px;<?php if($key != 3){echo 'display:none;';}; ?>">
 				<a href="/views/aboutus/contactus/" <?php if($uri == "/views/aboutus/contactus/"){echo $sub_current;}; ?>><p>联系我们</p><span>Contact Us</span></a>
 			</div>
 			</li>
