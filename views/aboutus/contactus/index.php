@@ -5,7 +5,6 @@
 	<title>萌影画</title>
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
 	<meta name="author" content="金依萌">
-	<link rel="icon" type="image/ico" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/common.css" />
 	<style>
 	.map{width:100%;background:url(/public/images/bg02.png) repeat #f7f7f7;position:relative}.map .wrap{width:878px;margin:0 auto;padding:50px 0}.map .wrap .geo{width:502px;float:left}.map .wrap .info{float:left;width:346px;margin-left:30px}.map .name{height:30px;vertical-align:middle;font-size:18px;font-weight:bold}.map .item{color:#666;width:50px;height:26px;text-align:left;vertical-align:middle}.map .detail{font-size:14px;font-weight:bold}

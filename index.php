@@ -6,7 +6,6 @@
     <meta name="keywords" content="萌影画,工作室,电影,一夜惊喜,非常完美,花絮,剧照,预告片" >
 	<meta name="author" content="金依萌">
 	<title>萌影画</title>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="stylesheet" type="text/css" href="/public/css/pages/common.css" />
 	<link rel="stylesheet" type="text/css" href="/public/css/pages/home.css"  />
 </head>
