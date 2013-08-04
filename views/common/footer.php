@@ -9,6 +9,8 @@
 	</div>
 	<p class="name">draw<span>and</span>shoot<span>films</span></p>
 	<p>萌影画工作室 版权所有</p>
+	<p>京ICP备13033232号</p>
+	<script type="text/javascript" src="http://tajs.qq.com/stats?sId=26379929" charset="UTF-8"></script>
 </div>
 <?php include 'script.php'; ?>
 <script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>

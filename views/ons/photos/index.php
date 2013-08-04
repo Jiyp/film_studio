@@ -79,10 +79,6 @@
 					</li>
 					<li><a href="/views/large?i=4&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_4.jpg" class="img_box"></a>
 					</li>
-					<!--<li><a href="/views/large?i=5&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_5.jpg" class="img_box"></a>
-					</li>
-					 <li><a href="http://movie.mtime.com/51233/trailer/44834.html" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_6.jpg" class="img_box"></a>
-					</li>-->
 					<li><a href="/views/large?i=7&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_7.jpg" class="img_box"></a>
 					</li>
 					<li><a href="/views/large?i=8&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_8.jpg" class="img_box"></a>
@@ -94,10 +90,6 @@
 					</li>
 					<li><a href="/views/large?i=12&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_12.jpg" class="img_box"></a>
 					</li>
-					<!--<li><a href="/views/large?i=13&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_13.jpg" class="img_box"></a>
-					</li>
-					<li><a href="/views/large?i=14&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_14.jpg" class="img_box"></a>
-					</li>-->
 					<li><a href="/views/large?i=15&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_15.jpg" class="img_box"></a>
 					</li>
 					<li><a href="/views/large?i=17&f=5" target="_blank" class="imgs_box"><img src="/public/images/s/5/img_17.jpg" class="img_box"></a>
