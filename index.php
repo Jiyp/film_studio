@@ -116,6 +116,21 @@
 			<ul class="trailer_wrap clearfix">
 				<li class="trailer">
 					<div data-rel="jia_this"  data-index="3">
+						<h2 class="header">《一夜惊喜》- 独家纪录片</h2>
+						<object width=450 height=360><param name="movie" value="http://share.vrs.sohu.com/1274484/v.swf&topBar=1&autoplay=false&plid=5696302&pub_catecode=&from=page"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="wmode" value="Transparent"></param><embed width=450 height=360 wmode="Transparent" allowfullscreen="true" allowscriptaccess="always" quality="high" src="http://share.vrs.sohu.com/1274484/v.swf&topBar=1&autoplay=false&plid=5696302&pub_catecode=&from=page" type="application/x-shockwave-flash"/></embed></object>
+					</div>
+				</li>
+				<li class="trailer" style="margin-left:30px;">
+					<div data-rel="jia_this"  data-index="4">
+						<h2 class="header">《一夜惊喜》萌贱“找你爸”MV 趣说未婚孕事</h2>
+						<iframe height=360 width=450 frameborder=0 src="http://player.youku.com/embed/XNTk0ODQ1NjMy" allowfullscreen></iframe>
+					</div>
+				</li>
+			</ul>
+		
+			<ul class="trailer_wrap clearfix">
+				<li class="trailer">
+					<div data-rel="jia_this"  data-index="3">
 						<h2 class="header">《一夜惊喜》- 花絮1</h2>
 						<p class="intro">《一夜惊喜》导演金依萌特辑</p>
 						<iframe height=360 width=450 frameborder=0 src="http://player.youku.com/embed/XNTc4OTk0Nzc2" allowfullscreen></iframe>

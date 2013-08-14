@@ -53,13 +53,15 @@
 			</ul>
 			<h3>Foreign Media Reports</h3>
 			<ul class="news">
-				<li><a href="http://blogs.wsj.com/scene/2011/01/28/what-hollywood-wants/" target="_blank">Wall Street Journal: What Hollywood Wants: Profile of Eva Jin</a></li>
-				<li><a href="http://variety.com/2011/film/news/jin-filmmaker-s-revenge-sets-b-o-benchmark-1118042833/" target="_blank">Variety: Jin: Filmmaker’s ‘Revenge’ sets B.O. benchmark</a></li>
-				<li><a href="http://www.cnn.com/2013/02/20/world/asia/china-lu-stout-film-cinema" target="_blank">CNN: How to make a movie in China</a></li>
-				<li><a href="http://www.deadline.com/2012/03/wme-taps-china-talent-in-eva-jin-and-fan-bingbing/" target="_blank">Deadline: WME Taps China Talent In Eva Jin And Fan Bingbing</a></li>
-				<li><a href="http://www.hollywoodreporter.com/news/chinese-director-jin-working-hollywood-62038" target="_blank">Hollywood Reporter: Chinese Director Jin Working on Hollywood Feature Script, Pilot</a></li>
-				<li><a href="http://weblogs.variety.com/on_the_air/2010/12/will-smith-sets-up-china-set-drama-at-fox.html#ixzz18aqBruKD" target="_blank">Variety: Will Smith sets up China-set drama at Fox</a></li>
-				<li><a href="http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=15625&AspxAutoDetectCookieSupport=1" target="_blank">USC Asia Pacific Arts: Sophie's Creator: an interview with director Eva Jin</a></li>
+				<li><a href="http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-china-director-eva-jin-one-night-surprise,0,756200.story" title="LA Times: Eva Jin makes 'One Night Surprise' as a rom-com for a global audience" target="_blank">Eva Jin makes 'One Night Surprise' as a rom-com ...</a></li>
+				<li><a href="http://variety.com/2013/film/reviews/one-night-surprise-review-fan-bingbing-eva-jin-1200577219/" title="Variety: Film Review: 'One Night Surprise'" target="_blank">Variety: Film Review: 'One Night Surprise'</a></li>
+				<li><a href="http://blogs.wsj.com/scene/2011/01/28/what-hollywood-wants/" title="Wall Street Journal: What Hollywood Wants: Profile of Eva Jin" target="_blank">Wall Street Journal: What Hollywood Wants: Profile of Eva Jin</a></li>
+				<li><a href="http://variety.com/2011/film/news/jin-filmmaker-s-revenge-sets-b-o-benchmark-1118042833/" title="Variety: Jin: Filmmaker’s ‘Revenge’ sets B.O. benchmark" target="_blank">Variety: Jin: Filmmaker’s ‘Revenge’ sets B.O. benchmark</a></li>
+				<li><a href="http://www.cnn.com/2013/02/20/world/asia/china-lu-stout-film-cinema" title="CNN: How to make a movie in China" target="_blank">CNN: How to make a movie in China</a></li>
+				<li><a href="http://www.deadline.com/2012/03/wme-taps-china-talent-in-eva-jin-and-fan-bingbing/" title="Deadline: WME Taps China Talent In Eva Jin And Fan Bingbing" target="_blank">Deadline: WME Taps China Talent In Eva Jin And Fan Bingbing</a></li>
+				<li><a href="http://www.hollywoodreporter.com/news/chinese-director-jin-working-hollywood-62038"  title="Hollywood Reporter: Chinese Director Jin Working on Hollywood Feature Script, Pilot" target="_blank">Hollywood Reporter: Chinese Director Jin Working on Hollywood Feature Script, Pilot</a></li>
+				<li><a href="http://weblogs.variety.com/on_the_air/2010/12/will-smith-sets-up-china-set-drama-at-fox.html#ixzz18aqBruKD" title="Variety: Will Smith sets up China-set drama at Fox" target="_blank">Variety: Will Smith sets up China-set drama at Fox</a></li>
+				<li><a href="http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=15625&AspxAutoDetectCookieSupport=1" title="USC Asia Pacific Arts: Sophie's Creator: an interview with director Eva Jin" target="_blank">USC Asia Pacific Arts: Sophie's Creator: an interview with director Eva Jin</a></li>
 			</ul>
 		</div>
 	</div>
