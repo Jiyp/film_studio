@@ -1,7 +1,7 @@
 film_studio
 ===========
 
-萌影画工作室的网站
+萌影画工作室网站
 
 
 http://www.nike.com/gb/en_gb/c/football
