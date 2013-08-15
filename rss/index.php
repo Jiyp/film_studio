@@ -6,10 +6,31 @@ function create_item($link, $url)
 {
     return "<item>
 	    <title>萌影画《一夜惊喜》剧照</title>
-	    <link>$link</link>
+	    <link>http://mengfilms.com</link>
+		<pubDate>Thu, 15 Aug 2013 12:57:41 +0000</pubDate>
 	    <description><![CDATA[ 萌影画《一夜惊喜》剧照 ]]></description>
+		<category>
+			<![CDATA[ 萌影画 ]]>
+		</category>
+		<category>
+			<![CDATA[ 一夜惊喜 ]]>
+		</category>
+		<category>
+			<![CDATA[ 剧照 ]]>
+		</category>
+		<category>
+			<![CDATA[ 电影 ]]>
+		</category>
 	    <dc:creator>萌影画</dc:creator>
-	    <content:encoded><![CDATA[<p><a href=\"$link\"><img src=\"$url\"></a></p>]]></content:encoded>
+		<description>
+			<![CDATA[ 《一夜惊喜》剧照 ]]>
+		</description>
+	    <content:encoded>
+		<![CDATA[
+			<p>金依萌导演新作-《一夜惊喜》剧照</p>
+			<p><a href=\"http://mengfilms.com\"><img src=\"$url\"></a></p>
+		]]>
+		</content:encoded>
 	</item>";
 }
 
@@ -31,102 +52,70 @@ for($i = 0; $i < 2; $i++){
 	}
 }
 
-$videos = '
-<item>
-<title>萌影画《一夜惊喜》视频</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 萌影画《一夜惊喜》视频 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTg0Nzg2Njgw/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-	<media:param name="flashVars">imglogo=&amp;paid=0&amp;partnerId=youkuind_</media:param>
-</media:embed>
+$videos = 
+'<item>
+	<title>萌影画《一夜惊喜》视频</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 萌影画《一夜惊喜》视频 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTg0Nzg2Njgw/v.swf"/>
 </item>
 <item>
-<title>萌影画《一夜惊喜》视频</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 萌影画《一夜惊喜》视频 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-</media:embed>
+	<title>萌影画《一夜惊喜》视频</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 萌影画《一夜惊喜》视频 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf"/>
 </item>
 <item>
-<title>《一夜惊喜》- 独家纪录片</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 《一夜惊喜》- 独家纪录片 ]]></description>
-<media:embed url="http://share.vrs.sohu.com/1274484/v.swf&amp;topBar=1&amp;autoplay=false&amp;plid=5696302&amp;pub_catecode=&amp;from=page" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-</media:embed>
+	<title>萌影画《一夜惊喜》视频</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 萌影画《一夜惊喜》视频 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf"/>
 </item>
 <item>
-<title>《一夜惊喜》萌贱“找你爸”MV 趣说未婚孕事</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 《一夜惊喜》萌贱“找你爸”MV 趣说未婚孕事 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTk0ODQ1NjMy/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-	<media:param name="flashVars">imglogo=&amp;paid=0&amp;partnerId=youkuind_</media:param>
-</media:embed>
+	<title>《一夜惊喜》- 独家纪录片</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 《一夜惊喜》- 独家纪录片 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://share.vrs.sohu.com/1274484/v.swf"/>
 </item>
 <item>
-<title>《一夜惊喜》导演金依萌特辑</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 《一夜惊喜》导演金依萌特辑 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTc4OTk0Nzc2/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-	<media:param name="flashVars">imglogo=&amp;paid=0&amp;partnerId=youkuind_</media:param>
-</media:embed>
+	<title>《一夜惊喜》萌贱“找你爸”MV 趣说未婚孕事</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 《一夜惊喜》萌贱“找你爸”MV 趣说未婚孕事 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTk0ODQ1NjMy/v.swf"/>
 </item>
 <item>
-<title>《一夜惊喜》天王驾到特辑 黎明猛追范爷惊喜十足</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 《一夜惊喜》天王驾到特辑 黎明猛追范爷惊喜十足 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTgxOTk4OTQ0/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-	<media:param name="flashVars">imglogo=&amp;paid=0&amp;partnerId=youkuind_</media:param>
-</media:embed>
+	<title>《一夜惊喜》导演金依萌特辑</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 《一夜惊喜》导演金依萌特辑 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTc4OTk0Nzc2/v.swf"/>
 </item>
 <item>
-<title>范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ 范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTczMDQzNzQw/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-	<media:param name="flashVars">imglogo=&amp;paid=0&amp;partnerId=youkuind_</media:param>
-</media:embed>
+	<title>《一夜惊喜》天王驾到特辑 黎明猛追范爷惊喜十足</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 《一夜惊喜》天王驾到特辑 黎明猛追范爷惊喜十足 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTgxOTk4OTQ0/v.swf"/>
 </item>
 <item>
-<title>“性感篇”制作特辑 李治廷称导演是最性感的人</title>
-<link>http://mengfilms.com</link>
-<description><![CDATA[ “性感篇”制作特辑 李治廷称导演是最性感的人 ]]></description>
-<media:embed url="http://player.youku.com/player.php/sid/XNTc1MTEzMzg4/v.swf" width="640" height="498">
-	<media:param name="type">application/x-shockwave-flash</media:param>
-	<media:param name="width">640</media:param>
-	<media:param name="height">498</media:param>
-	<media:param name="allowFullScreen">true</media:param>
-	<media:param name="flashVars">imglogo=&amp;paid=0&amp;partnerId=youkuind_</media:param>
-</media:embed>
+	<title>范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ 范冰冰突破尺度大玩反转 卖萌犯二颠覆女神形象 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTczMDQzNzQw/v.swf"/>
 </item>
-';
+<item>
+	<title>“性感篇”制作特辑 李治廷称导演是最性感的人</title>
+	<link>http://mengfilms.com</link>
+	<description><![CDATA[ “性感篇”制作特辑 李治廷称导演是最性感的人 ]]></description>
+	<pubDate>Thu, 15 Aug 2013 22:34:02 +0800</pubDate>
+	<enclosure type="application/x-shockwave-flash" url="http://player.youku.com/player.php/sid/XNTc1MTEzMzg4/v.swf"/>
+</item>';
 
 $rss = 
 '<?xml version="1.0" encoding="UTF-8"?>
@@ -204,7 +193,10 @@ $rss =
 		    <dc:creator>新华网</dc:creator>
 		    <content:encoded><![CDATA[<p>由寰亚电影、华夏视听、萌影画联合出品，导演金依萌原创剧本并执导的首部性感喜剧《一夜惊喜》自上映以来，凭范冰冰领衔众美男献上大胆颠覆的性感演出、轻松幽默的时尚风格、笑点讨喜泪点真实的观影效果成为观众力推的七夕必看影片。大量零差评的观影感受获得外媒关注，8月10日的洛杉矶时报以罕见的大篇幅报道向全球读者盛赞《一夜惊喜》，并对导演金依萌给予高度认可。</p><p>今年七夕档影片众多，在暑期档竞争已趋白热化的八月影市，《一夜惊喜》上映当天就挣得1300万不俗票房，更凭借自身过硬品质赢得影迷好评。在《惊天危机》、《速度与激情6》、《环太平洋》等好莱坞大片势头不减的情况下，《一夜惊喜》接下来每天总票房都涨势迅猛，迅速从同期上映的众多国产片中突围而出，最终首周末上映三天票房狂揽近5000万。全国场次占比一路上扬，周一已达20.25%，成功超越《环太平洋》位居第二，如此势头必将成为今夏七夕节最值得走进影院的佳片。</p><p>洛杉矶时报盛赞《一夜惊喜》 导演金依萌成功获国外好评</p>
 <p>8月10日，美国三大报纸之一的洛杉矶时报以罕见的大面积篇幅报道电影《一夜惊喜》是适合全球观众口味的浪漫喜剧，这是华语片首次在西方获得如此高的评价。洛杉矶时报称，《一夜惊喜》有一种跨越国界的特质，曾经留美多年学习电影的导演金依萌致力于创作出让中国观众信服的角色，同时坚持采用好莱坞风格的三段式方法写作。最终她成功跨越中西方文化的鸿沟，变得更国际化的新作《一夜惊喜》被西方评论员撰文推荐为既符合本土观众的口味，也非常适宜在海外上映喜剧电影。</p>]]></content:encoded>
-		</item>'.$imgs.$videos.'
+		</item>'.
+		$imgs.
+		$videos.
+		'
   	</channel>
 </rss>';
 
