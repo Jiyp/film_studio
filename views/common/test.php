@@ -73,7 +73,7 @@ if( $len - 1 == $key){ //最后一张图片
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/common.css" />
 	<style>
 		#stage{width:100%;background:#f7f7f7;border-top:1px solid #ccc;overflow-x:hidden;}
-		#stage_inner{min-height:200px;_height:200px;margin:0 auto;margin-bottom:20px;width:600px;position:relative;background:url(/public/images/loading.gif) 50% 50% no-repeat;}
+		#stage_inner{min-height:200px;_height:200px;margin:0 auto;margin-bottom:20px;width:600px;background:url(/public/images/loading.gif) 50% 50% no-repeat;}
 		#big_img{vertical-align:bottom;display:none;}
 		#btn_bar{margin: 10px 0 6px 0;display:none;}
 	</style>
@@ -90,39 +90,35 @@ if( $len - 1 == $key){ //最后一张图片
 		</div>
 	</div>
 	
-	<?php include '../common/footer.php'; ?>
+	<?php include '../common/footer.php'; ?>	
 </div>
 <script>
 $(function(){
-	var pager = function(size){
-		var stage = $('#stage_inner');
-		var w = size.w;
-		var h = size.h;
-		var css = {
-			position: 'absolute',
-			width : parseInt(w/2, 10) + 'px',
-			height : h + 'px',
-			top : '40px'
-		};
+	var slider = function(){
 		var next = '<?= $next ?>';
 		var prev = '<?= $prev ?>';
-		
-		var $left = $('<div>').css(css);
-		$left.css('left', 0);
-		prev ? $left.addClass('act_prev') : $left.attr('title', '没有上一页了');
-		
-		var $right = $('<div>').css(css);
-		$right.css('right', 0);
-		next ? $right.addClass('act_next') : $right.attr('title', '没有下一页了');
-		
-		stage.append($left);
-		stage.append($right);
-		
-		$left.on('click', function(){
-			prev && (location.href = prev);
+		var url;
+		var stage = $('#stage_inner');
+		stage.on('mousemove', function(e){
+			var self = $(this);
+			var width = self.width();
+			var offsetX = e.offsetX;
+			if(offsetX >= width / 2 ){
+				self.removeClass('act_prev');
+				if( next ){
+					self.addClass('act_next');
+				}
+				url = next;
+			} else {
+				self.removeClass('act_next');
+				if(prev){
+					self.addClass('act_prev');
+				}
+				url = prev;
+			}
 		});
-		$right.on('click', function(){
-			next && (location.href = next);
+		stage.on('click', function(){
+			url && (location.href = url);
 		});
 	};
 
@@ -150,7 +146,7 @@ $(function(){
 		_img.style.display = 'block';
 		document.getElementById('btn_bar').style.display = 'block';
 		//bind event
-		pager(size);
+		slider();
 	};
 	img.src = "<?= $img_src ?>";
 });
