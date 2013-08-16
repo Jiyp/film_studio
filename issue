@@ -1,9 +1,21 @@
 [----------------TODO----------------]
+1.mengfilms.com的更新同步到海外版的yimengfilms.com
+
+2.两个首页和各个页面要加上公司和依萌英文名字，Draw and Shoot Films, Eva Jin 
+
+3.百度和google的sitemap文件
+
+4.增加一个新闻轮播的区域
+
+5.修改各个页面的title
+
+================================================
+================================================
+
 参考站点：
 http://www.ifanr.com/feed/user/flipboard
 
-生成flipboard的rss文件,新闻素材如下：
-
+生成rss的新闻素材：
 
 
 专访《一夜惊喜》金依萌：没风格导演无法生存
@@ -29,6 +41,3 @@ http://epaper.jinghua.cn/html/2013-08/12/content_17608.htm
 http://life.qinbei.com/20130813/1580784.shtml
 
 ================================================
-百度sitemap
-
-修改各个页面的title

@@ -53,7 +53,7 @@
 			</ul>
 			<h3>Foreign Media Reports</h3>
 			<ul class="news">
-				<li><a href="http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-china-director-eva-jin-one-night-surprise,0,756200.story" title="LA Times: Eva Jin makes 'One Night Surprise' as a rom-com for a global audience" target="_blank">Eva Jin makes 'One Night Surprise' as a rom-com ...</a></li>
+				<li><a href="http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-china-director-eva-jin-one-night-surprise,0,756200.story" title="LA Times: Eva Jin makes 'One Night Surprise' as a rom-com for a global audience" target="_blank">LA Times: Eva Jin makes 'One Night Surprise' as a rom-com ...</a></li>
 				<li><a href="http://variety.com/2013/film/reviews/one-night-surprise-review-fan-bingbing-eva-jin-1200577219/" title="Variety: Film Review: 'One Night Surprise'" target="_blank">Variety: Film Review: 'One Night Surprise'</a></li>
 				<li><a href="http://blogs.wsj.com/scene/2011/01/28/what-hollywood-wants/" title="Wall Street Journal: What Hollywood Wants: Profile of Eva Jin" target="_blank">Wall Street Journal: What Hollywood Wants: Profile of Eva Jin</a></li>
 				<li><a href="http://variety.com/2011/film/news/jin-filmmaker-s-revenge-sets-b-o-benchmark-1118042833/" title="Variety: Jin: Filmmaker’s ‘Revenge’ sets B.O. benchmark" target="_blank">Variety: Jin: Filmmaker’s ‘Revenge’ sets B.O. benchmark</a></li>
