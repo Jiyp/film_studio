@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
-    <meta name="keywords" content="萌影画,工作室,电影,一夜惊喜,非常完美,花絮,剧照,预告片" >
-	<meta name="author" content="金依萌">
+	<meta name="keywords" content="萌影画,金依萌,工作室,电影,一夜惊喜,非常完美,花絮,剧照,预告片,Eva Jin,Draw and Shoot Films" >
+	<meta name="author" content="金依萌,Eva Jin,Draw and Shoot Films">
 	<title>萌影画</title>
 	<link rel="stylesheet" type="text/css" href="/public/css/pages/common.css" />
 	<link rel="stylesheet" type="text/css" href="/public/css/pages/home.css"  />
@@ -13,9 +13,8 @@
 <div id="main">
 		<?php include './views/common/header.php'; ?>
 		<div class="brief">
-			<div class="bg"><img src="/public/images/quotation_bg.png" style="width:100%;height:404px;" /></div>
+			<div class="b_g"><img src="/public/images/quotation_bg.png" style="width:100%;height:404px;" /></div>
 			<div class="content">
-				<!-- <h1 class="png_fix">logo</h1>-->
 				<p style="margin-top:40px;">
 			用胶片记录过往 用镜头捕捉人生 </p>
 			<p>我们不仅是故事的缔造者 我们更是生活的亲历人</p>
@@ -24,10 +23,18 @@
 				<p>-- 金依萌导演 --</p>
 			</div>
 		</div>
-		
+		<div class="news">
+			<div class="news_inner">
+				<span class="news_des">最新动态：</span>
+				<ul id="news">
+					<li><a href="http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-china-director-eva-jin-one-night-surprise,0,756200.story" target="_blank" class="link">LA Times: Eva Jin makes 'One Night Surprise' as a rom-com for a global audience</a></li>
+					<li><a href="http://variety.com/2013/film/reviews/one-night-surprise-review-fan-bingbing-eva-jin-1200577219/" target="_blank" class="link">Variety: Film Review: 'One Night Surprise'</a></li>
+				</ul>
+			</div>
+		</div>
 		<div class="my_works">
 			<div class="wrap">
-				<h2 class="title png_fix">我们的作品</h2>
+				<!-- <h2 class="title png_fix">我们的作品</h2>-->
 				<ul class="movie_list clearfix">
 					<li data-href="/views/ons/videos/">
 						<img width="293" height="221" src="/public/images/home/ons_ygp_gray.jpg" data-src="/public/images/home/ons_ygp.jpg"/>
@@ -76,23 +83,6 @@
 			<div style="width:930px;margin: 0 auto;padding:72px 0 100px 0;_padding-top:50px;">
 				<div style="margin-bottom:20px;">
 				<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTg0Nzg2Njgw" allowfullscreen></iframe></div>
-				<!--<div class="trailer_wrap">
-					<iframe height=498 width=930 frameborder=0 src="http://player.youku.com/embed/XNTg0Nzg2Njgw" allowfullscreen></iframe>
-					<div class="info_bar">
-						<h2>《一夜惊喜》“高潮版”预告片 范冰冰突破诱惑为爱大冒险</h2>
-						<div class="jia_this_bar">
-							<div class="jiathis_style_32x32" style="height:32px;">
-								<a class="jiathis_button_qzone"></a>
-								<a class="jiathis_button_tsina"></a>
-								<a class="jiathis_button_tqq"></a>
-								<a class="jiathis_button_weixin"></a>
-								<a class="jiathis_button_renren"></a>
-								<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
-								<a class="jiathis_counter_style"></a>
-							</div>
-						</div>
-					</div>
-				</div>-->
 				<embed src="http://player.youku.com/player.php/sid/XNTcwMDEzNjU2/v.swf" allowFullScreen="true" quality="high" width="930" height="498" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 				<!-- JiaThis Button BEGIN -->
 				<div style="float:right;padding-top:24px;_width:284px;">
@@ -219,6 +209,34 @@
 		
 		<?php include './views/common/footer.php'; ?>
 </div>
+<script>
+$(function(){
+	var timer;
+	var ul = $('#news');
+	var timeout = 3000;
+	function scroll(){
+		ul.animate({top:"-46px"}, 500, function(){
+			ul.find('li').first().appendTo(ul);
+			ul.css('top', '0');
+			start();
+		});
+	}
+	function start(){
+		timer = setTimeout(function(){
+			scroll();
+		}, timeout);
+	}
+	function stop(){
+		clearTimeout(timer);
+	}
+	ul.hover(function(){
+		stop();
+	},function () {
+		start();
+	});
+	start();
+});
+</script>
 <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1368857247128408" charset="utf-8"></script>
 </body>
 </html>

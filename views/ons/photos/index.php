@@ -2,9 +2,10 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
-	<title>一夜惊喜-剧照-萌影画</title>
+	<title>萌影画-一夜惊喜-剧照</title>
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
-	<meta name="author" content="金依萌">
+	<meta name="keywords" content="萌影画,金依萌,工作室,电影,一夜惊喜,非常完美,花絮,剧照,预告片,Eva Jin,Draw and Shoot Films" >
+	<meta name="author" content="金依萌,Eva Jin,Draw and Shoot Films">
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/common.css" />
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/ons_photos.css"  />
 </head>

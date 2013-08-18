@@ -68,8 +68,10 @@ if( $len - 1 == $key){ //最后一张图片
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
-	<title>萌影画</title>
+	<title>萌影画-大图</title>
 	<meta name="description" content="Hi,欢迎来到萌影画工作室.我们是热爱电影的爱好者.这里有几个我们的作品,希望您喜欢.有什么感受希望您跟我们联系哈">
+	<meta name="keywords" content="萌影画,金依萌,工作室,电影,一夜惊喜,非常完美,花絮,剧照,预告片,Eva Jin,Draw and Shoot Films" >
+	<meta name="author" content="金依萌,Eva Jin,Draw and Shoot Films">
 	<link rel="stylesheet" type="text/css" href="<?=$host?>/public/css/pages/common.css" />
 	<style>
 		#stage{width:100%;background:#f7f7f7;border-top:1px solid #ccc;overflow-x:hidden;}
@@ -107,11 +109,11 @@ $(function(){
 		var next = '<?= $next ?>';
 		var prev = '<?= $prev ?>';
 		
-		var $left = $('<div>').css(css);
+		var $left = $('<div>&nbsp;</div>').css(css);
 		$left.css('left', 0);
 		prev ? $left.addClass('act_prev') : $left.attr('title', '没有上一页了');
 		
-		var $right = $('<div>').css(css);
+		var $right = $('<div>&nbsp;</div>').css(css);
 		$right.css('right', 0);
 		next ? $right.addClass('act_next') : $right.attr('title', '没有下一页了');
 		
